@@ -6,7 +6,7 @@ import subprocess
 
 """
 The output format will be:
-    GitHub_Entity_Filename,Oasis_Entity_ID,Oasis_Account,ETH_Address,Is_Valid_in_This_Epoch,Stake_Amount_Day1,Stake_Amount_Day2,...Stake_Amount_Day30
+    GitHub_Entity_Filename,Oasis_Entity_ID,Oasis_Account,ETH_Address,Stake_Amount_Day1,Stake_Amount_Day2,...Stake_Amount_Day30
     If the paratime node is dead, your stake amount will be set to zero.
 """
 
@@ -18,16 +18,15 @@ class Entity():
         self.oasis_id = ""
         self.oasis_account = ""
         self.eth_address = ""
-        self.is_valid = False
         self.stake_amount = {}
     def __str__(self):
-        s = [self.entity_filename, self.oasis_id, self.oasis_account, self.eth_address, str(self.is_valid)]
+        s = [self.entity_filename, self.oasis_id, self.oasis_account, self.eth_address]
         for k in self.stake_amount:
             print('Stake ... ', k, self.stake_amount[k])
             s.append(self.stake_amount[k])
         return ','.join(s)
     def __repr__(self):
-        s = [self.entity_filename, self.oasis_id, self.oasis_account, self.eth_address, str(self.is_valid)]
+        s = [self.entity_filename, self.oasis_id, self.oasis_account, self.eth_address]
         for k in self.stake_amount:
             print('Stake ... ', k, self.stake_amount[k])
             s.append(self.stake_amount[k])
@@ -39,7 +38,6 @@ class Entity():
         self.oasis_id = p[1]
         self.oasis_account = p[2]
         self.eth_address = p[3]
-        self.is_valid = (p[4] == 'True')
     def load_stake_amount(self, date, nodes):
         p = os.path.join(date, 'accounts_info', 'account_info.'+self.oasis_account+'.'+date+'.txt')
         with open(p) as f:
@@ -87,6 +85,9 @@ def main():
             e.load_stake_amount(date, nodes)
     print(entities)
     with open('reward_base.csv', 'w') as f:
+        b = ['GitHub_Entity_Filename,Oasis_Entity_ID,Oasis_Account,ETH_Address']
+        b.extend(dates)
+        f.write(','.join(b)+'\n')
         for e in entities:
             f.write(str(e)+'\n')
 
