@@ -1,0 +1,50 @@
+RDCyARTIdpiG75L9vVXAYIhRCToSrchZkv3JUW3Pji8=
+oasis1qztpm422n7v98f4s7ja0wt5jey7fy3xpg5ye2vtl
+General Account:
+  Balance: ROSE 45.000759047
+  Nonce:   76
+Escrow Account:
+  Active:
+    Balance:      ROSE 42310888.545588984
+    Total Shares: 38766260701376010
+  Debonding:
+    Balance:      ROSE 10041.800353459
+    Total Shares: 10041800353459
+  Commission Schedule:
+    Rates:
+      (1) start: epoch 0
+          rate:  5.0%
+    Rate Bounds:
+      (1) start:        epoch 0
+          minimum rate: 0.0%
+          maximum rate: 20.0%
+  Stake Accumulator:
+    Claims:
+      - Name: registry.RegisterRuntime.000000000000000000000000000000000000000000000000000000000000ff03
+        Staking Thresholds:
+          - Global: runtime-compute
+      - Name: registry.RegisterEntity
+        Staking Thresholds:
+          - Global: entity
+      - Name: registry.RegisterNode.ApJwFY160W7yWn8mus/WXiXk9spYm2/ar2aftAeSMS8=
+        Staking Thresholds:
+          - Global: node-compute
+        Staking Thresholds:
+          - Global: node-storage
+      - Name: registry.RegisterNode.GWBXv2OxowCLsRGyT/cND2TKEs9kpo4xtvr1JTsB8R0=
+        Staking Thresholds:
+          - Global: node-validator
+      - Name: registry.RegisterNode.IYMIELB0lsYTSU48cJxUjiutQC/taxwXKUoUtrksu4I=
+        Staking Thresholds:
+          - Global: node-compute
+        Staking Thresholds:
+          - Global: node-storage
+      - Name: registry.RegisterRuntime.000000000000000000000000000000000000000000000000000000000000ff00
+        Staking Thresholds:
+          - Global: runtime-compute
+      - Name: registry.RegisterRuntime.000000000000000000000000000000000000000000000000000000000000ff01
+        Staking Thresholds:
+          - Global: runtime-compute
+      - Name: registry.RegisterRuntime.000000000000000000000000000000000000000000000000000000000000ff02
+        Staking Thresholds:
+          - Global: runtime-compute
