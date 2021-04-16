@@ -1,0 +1,26 @@
+aOefxt5MUuXEbErxpD+ZttJWh/3d9if+t+PBTeAgKpo=
+oasis1qz2rxs50p4kn537tcupjhg7ad3zcm9s7uuyrrd9e
+General Account:
+  Balance: ROSE 321.700044769
+  Nonce:   3
+Escrow Account:
+  Active:
+    Balance:      ROSE 7587310.297335404
+    Total Shares: 7350461086093878
+  Debonding:
+    Balance:      ROSE 2849765.798997801
+    Total Shares: 2849765798997801
+  Commission Schedule:
+    Rates: (none)
+    Rate Bounds: (none)
+  Stake Accumulator:
+    Claims:
+      - Name: registry.RegisterNode.h6QJsk6y3fKZnO49vAyseRxtLkbSk60iDf1q88mZQIM=
+        Staking Thresholds:
+          - Global: node-compute
+      - Name: registry.RegisterNode.vBGuFf/8tdEMQPiiPggnLlWT9aCbIQgNcRM+EKh2kX0=
+        Staking Thresholds:
+          - Global: node-validator
+      - Name: registry.RegisterEntity
+        Staking Thresholds:
+          - Global: entity

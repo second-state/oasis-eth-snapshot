@@ -1,0 +1,20 @@
+PDIYugeaMOGWXwxUWHho+JayUKCAuI9QcMG03297SDU=
+oasis1qzenkfh7n9q376033p8jdxjhv6hjz45cmy5fuanj
+General Account:
+  Balance: ROSE 0.0
+  Nonce:   11
+Escrow Account:
+  Active:
+    Balance:      ROSE 0.0
+    Total Shares: 0
+  Debonding:
+    Balance:      ROSE 0.0
+    Total Shares: 0
+  Commission Schedule:
+    Rates: (none)
+    Rate Bounds: (none)
+  Stake Accumulator:
+    Claims:
+      - Name: registry.RegisterEntity
+        Staking Thresholds:
+          - Global: entity
