@@ -1,0 +1,55 @@
+DIbPacWGEiealk+226eYEafYmKJpD98PYoWp/tcPXJI=
+oasis1qpsnzv8qz4fu3lwps2tc3eg5pnryzl4h7cqxruzf
+Balance:
+  Total: 580210.807160916 ROSE
+  Available: 100.000781521 ROSE
+  Active Delegations from this Account:
+    Total: 580110.806379395 ROSE
+    Delegations:
+      - To:     oasis1qpsnzv8qz4fu3lwps2tc3eg5pnryzl4h7cqxruzf (self)
+        Amount: 580110.806379395 ROSE (532759955452460 shares)
+
+Active Delegations to this Account:
+  Total: 39810950.275262977 ROSE (36561429061361005 shares)
+  Delegations:
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 29429145.840535607 ROSE (27027027000000000 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6621557.732454631 ROSE (6081081000000000 shares)
+    - From:   oasis1qpflyh6wncv53w4xxxrfyascz4px44ec5ujqnwyg
+      Amount: 2480824.211544442 ROSE (2278329901621265 shares)
+    - From:   oasis1qpsnzv8qz4fu3lwps2tc3eg5pnryzl4h7cqxruzf (self)
+      Amount: 580110.806379395 ROSE (532759955452460 shares)
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 353885.479086326 ROSE (325000000000000 shares)
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 326663.519156608 ROSE (300000000000000 shares)
+    - From:   oasis1qpa4dym8w399ryvpdam0t2p2tca56za49c4ftmhy
+      Amount: 10124.284781638 ROSE (9297902142037 shares)
+    - From:   oasis1qptpt0dv4hytf82rm62nlup5xp89rrf2qqjmyks8
+      Amount: 8638.401324325 ROSE (7933302145243 shares)
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 0
+        rate:  5.0%
+    (2) start: epoch 89
+        rate:  15.0%
+  Rate Bounds:
+    (1) start:        epoch 0
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+    (2) start:        epoch 425
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.AZJhDCByjr/YdTvA7uFnIeYcg7iuHPGiDrJRKaEOYHA=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 5
