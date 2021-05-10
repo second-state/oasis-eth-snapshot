@@ -1,0 +1,22 @@
+OtnnPxG9U1V4ieDWCuqBsr4BziYAmw6IpFBpa3CpKPE=
+oasis1qr6qp6cz3hnzx3yweyll7rne79ctfalrlcf5qj09
+Balance:
+  Total: 0.0 ROSE
+  Available: 0.0 ROSE
+
+Active Delegations to this Account:
+  Total: 200.0 ROSE (200000000000 shares)
+  Delegations:
+    - From:   oasis1qpcgnf84hnvvfvzup542rhc8kjyvqf4aqqlj5kqh
+      Amount: 200.0 ROSE (200000000000 shares)
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.bbzyMwoX4PxSEmzKLCFztbZTCheiAGqDOd4Z/kpH91w=
+      Staking Thresholds:
+        - Global: node-storage
+
+Nonce: 2
