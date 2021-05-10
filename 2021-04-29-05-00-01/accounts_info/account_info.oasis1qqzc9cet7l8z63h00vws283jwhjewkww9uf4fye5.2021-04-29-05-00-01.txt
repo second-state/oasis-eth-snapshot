@@ -1,0 +1,27 @@
+5WqDZHrVEpndCoC+QBDbFRszZFXInkx3I7mzF4/uqcU=
+oasis1qqzc9cet7l8z63h00vws283jwhjewkww9uf4fye5
+Balance:
+  Total: 693.028522894 ROSE
+  Available: 2.999998 ROSE
+  Active Delegations from this Account:
+    Total: 690.028524894 ROSE
+    Delegations:
+      - To:     oasis1qqzc9cet7l8z63h00vws283jwhjewkww9uf4fye5 (self)
+        Amount: 690.028524894 ROSE (690000000000 shares)
+
+Active Delegations to this Account:
+  Total: 690.028524894 ROSE (690000000000 shares)
+  Delegations:
+    - From:   oasis1qqzc9cet7l8z63h00vws283jwhjewkww9uf4fye5 (self)
+      Amount: 690.028524894 ROSE (690000000000 shares)
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterNode.2xWxyrmFeYidZlGK9Cq/d5PaqwrCafzTxN/Zuntt85Q=
+      Staking Thresholds:
+        - Global: node-validator
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+
+Nonce: 3
