@@ -1,0 +1,89 @@
+sRg0vKUArSC5xnjLmRTzIhVuny63VeHUizpkWnRfhkc=
+oasis1qzrjsupecrjmvyfmg0aqz75sek4x7dn4ggchqx28
+Balance:
+  Total: 677188.078523507 ROSE
+  Available: 50.00108062 ROSE
+  Active Delegations from this Account:
+    Total: 677138.077442887 ROSE
+    Delegations:
+      - To:     oasis1qzrjsupecrjmvyfmg0aqz75sek4x7dn4ggchqx28 (self)
+        Amount: 677138.077442887 ROSE (629524713085305 shares)
+
+Active Delegations to this Account:
+  Total: 92525999.100745533 ROSE (86019978756460967 shares)
+  Delegations:
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 48403522.294764754 ROSE (45000000000000000 shares)
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 43025353.150902004 ROSE (40000000000000000 shares)
+    - From:   oasis1qzrjsupecrjmvyfmg0aqz75sek4x7dn4ggchqx28 (self)
+      Amount: 677138.077442887 ROSE (629524713085305 shares)
+    - From:   oasis1qzz0vfq75ef2k7m8ezukmfpwmcw93xp8qcpv2mpk
+      Amount: 160149.201868983 ROSE (148888216031413 shares)
+    - From:   oasis1qzm2hs40qkfaz6dv6laxxpyjhq3lqrg3mq78avmz
+      Amount: 76897.012652576 ROSE (71489953732979 shares)
+    - From:   oasis1qpl306rugvsx6rpe44p3tdcuhj3rm692w5eyrr9w
+      Amount: 46158.846781577 ROSE (42913160172966 shares)
+    - From:   oasis1qzjx7pazpu3dzx49cxet0qxrjjylf35wfu8s8qxj
+      Amount: 38161.915572747 ROSE (35478537911266 shares)
+    - From:   oasis1qrg2a5gfhz8ad3h60p5wq7jkvzrsgutjn5j57hwg
+      Amount: 19465.224010616 ROSE (18096515273073 shares)
+    - From:   oasis1qp0jmx8j8jxxtqcxmdy2te0h646wnhvg2c6d9r7r
+      Amount: 16923.309340975 ROSE (15733336836651 shares)
+    - From:   oasis1qpuxqm9p4xn0eh4n9vwre9q4srz70p9yqslvdn3z
+      Amount: 15093.764977376 ROSE (14032437966925 shares)
+    - From:   oasis1qqg6ycecprr90ey86dgmccjahuwmrd48w5f08ls2
+      Amount: 10696.294330471 ROSE (9944178069109 shares)
+    - From:   oasis1qrgcp5guttsfphvjyx93xn6snw9z67lgpcnnp0ze
+      Amount: 9110.013671265 ROSE (8469437672541 shares)
+    - From:   oasis1qzcmkrneech69ea96dw5cggd6uaz5vxh2gcx3n99
+      Amount: 8662.27598887 ROSE (8053182930064 shares)
+    - From:   oasis1qqc7p025qwwfd9fjeanlg4zaccunwpk0hyun5pyy
+      Amount: 7878.570813128 ROSE (7324584447218 shares)
+    - From:   oasis1qrykuk3quc50mcmpnmn4wtresck93qyznu4nx8ng
+      Amount: 5446.921683472 ROSE (5063918164129 shares)
+    - From:   oasis1qqktus8sdhtkty3p0v5zajcf2z7n75w22v8senw4
+      Amount: 3111.688739158 ROSE (2892888505291 shares)
+    - From:   oasis1qqdjm79p79meyf9fem0hd9glmc2ume6lp5f0r60k
+      Amount: 1024.499946828 ROSE (952461627204 shares)
+    - From:   oasis1qpzyk4a9pfpptc50yl4hk3waypu8fq8xgu4m9cfg
+      Amount: 617.086537539 ROSE (573695732723 shares)
+    - From:   oasis1qrluzc4p04ayy5xl5j9x8tqh77sh2phq3cl6k6fg
+      Amount: 481.097967147 ROSE (447269279078 shares)
+    - From:   oasis1qzdqpzsvqn2qugheq2x9ph3qj2ew3aq0wytvp6gj
+      Amount: 104.422704422 ROSE (97080160208 shares)
+    - From:   oasis1qp3fsr9kzmh7rrhekrumuw46tqjsqqjcyvmyv8hd
+      Amount: 1.217349153 ROSE (1131750528 shares)
+    - From:   oasis1qph8um6xunj44hjy9rcnyexrurgzy720uvddnuur
+      Amount: 1.065144816 ROSE (990248529 shares)
+    - From:   oasis1qz5h8dpzmhjejck7j4nne2ncmhsggen2gqx0x7hn
+      Amount: 0.628135824 ROSE (583968083 shares)
+    - From:   oasis1qqpelwwqgp8agk448w5g7ypw4pjue70kpqr6kvgj
+      Amount: 0.519418933 ROSE (482895684 shares)
+
+Debonding Delegations to this Account:
+  Total: 26118.40379486 ROSE (26118403794860 shares)
+  Delegations:
+    - From:     oasis1qr47wh6g6l6spedry0226zrdqkqx0qs6tc5e28r2
+      Amount:   26118.40379486 ROSE (26118403794860 shares)
+      End Time: epoch 5314
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 1698
+        rate:  10.0%
+  Rate Bounds:
+    (1) start:        epoch 1698
+        minimum rate: 0.0%
+        maximum rate: 25.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode./6Dm7sBPDRXL4maL+RVHFHb3JCxZw5u6Fn0cfSxeolg=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 11
