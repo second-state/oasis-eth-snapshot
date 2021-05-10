@@ -1,0 +1,55 @@
+DIbPacWGEiealk+226eYEafYmKJpD98PYoWp/tcPXJI=
+oasis1qpsnzv8qz4fu3lwps2tc3eg5pnryzl4h7cqxruzf
+Balance:
+  Total: 583412.586617232 ROSE
+  Available: 100.000791796 ROSE
+  Active Delegations from this Account:
+    Total: 583312.585825436 ROSE
+    Delegations:
+      - To:     oasis1qpsnzv8qz4fu3lwps2tc3eg5pnryzl4h7cqxruzf (self)
+        Amount: 583312.585825436 ROSE (535475019616214 shares)
+
+Active Delegations to this Account:
+  Total: 39830663.760263274 ROSE (36564144125524759 shares)
+  Delegations:
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 29441532.151851163 ROSE (27027027000000000 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6624344.652466259 ROSE (6081081000000000 shares)
+    - From:   oasis1qpflyh6wncv53w4xxxrfyascz4px44ec5ujqnwyg
+      Amount: 2481868.355372804 ROSE (2278329901621265 shares)
+    - From:   oasis1qpsnzv8qz4fu3lwps2tc3eg5pnryzl4h7cqxruzf (self)
+      Amount: 583312.585825436 ROSE (535475019616214 shares)
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 354034.424480044 ROSE (325000000000000 shares)
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 326801.007212348 ROSE (300000000000000 shares)
+    - From:   oasis1qpa4dym8w399ryvpdam0t2p2tca56za49c4ftmhy
+      Amount: 10128.545949931 ROSE (9297902142037 shares)
+    - From:   oasis1qptpt0dv4hytf82rm62nlup5xp89rrf2qqjmyks8
+      Amount: 8642.037105284 ROSE (7933302145243 shares)
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 0
+        rate:  5.0%
+    (2) start: epoch 89
+        rate:  15.0%
+  Rate Bounds:
+    (1) start:        epoch 0
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+    (2) start:        epoch 425
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterNode.AZJhDCByjr/YdTvA7uFnIeYcg7iuHPGiDrJRKaEOYHA=
+      Staking Thresholds:
+        - Global: node-validator
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+
+Nonce: 5
