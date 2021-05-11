@@ -97,6 +97,7 @@ def main():
                         nodes[node['entity_id']] = 3
                 else:
                     continue
+        print (nodes)
         for e in entities:
             e.load_stake_amount(BEFORE_COBALT_UPGRADE, date, nodes)
     for date in after_cobalt_upgrade:
@@ -109,10 +110,10 @@ def main():
                     # Compute node
                     if node['runtimes'][0]['id'] == RUNTIME_ID:
                         nodes[node['entity_id']] = 1
-                elif node['roles'] == 3:
+                elif node['roles'] == 35:
                     # Storage + Compute node
                     if node['runtimes'][0]['id'] == RUNTIME_ID:
-                        nodes[node['entity_id']] = 3
+                        nodes[node['entity_id']] = 35
                 else:
                     continue
         for e in entities:
