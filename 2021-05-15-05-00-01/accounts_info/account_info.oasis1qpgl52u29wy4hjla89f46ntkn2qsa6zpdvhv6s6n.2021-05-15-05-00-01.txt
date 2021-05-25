@@ -1,0 +1,56 @@
+gb8SHLeDc69Elk7OTfqhtVgE2sqxrBCDQI84xKR+Bjg=
+oasis1qpgl52u29wy4hjla89f46ntkn2qsa6zpdvhv6s6n
+Balance:
+  Total: 71453.289584057 ROSE
+  Available: 100.000478497 ROSE
+  Active Delegations from this Account:
+    Total: 71353.28910556 ROSE
+    Delegations:
+      - To:     oasis1qpgl52u29wy4hjla89f46ntkn2qsa6zpdvhv6s6n (self)
+        Amount: 71353.28910556 ROSE (66471317181342 shares)
+
+Active Delegations to this Account:
+  Total: 1184943.362726085 ROSE (1103869871915321 shares)
+  Delegations:
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 1073444.789891849 ROSE (1000000000000000 shares)
+    - From:   oasis1qpgl52u29wy4hjla89f46ntkn2qsa6zpdvhv6s6n (self)
+      Amount: 71353.28910556 ROSE (66471317181342 shares)
+    - From:   oasis1qrw0qcm5gpq8fykvcpv6gzccn7x2h24hau2scxkj
+      Amount: 21078.659403138 ROSE (19636463469409 shares)
+    - From:   oasis1qzzq9qvsx2uy7aqtu07f8gpq45hzpvchz5gs58yk
+      Amount: 14770.785407619 ROSE (13760172434306 shares)
+    - From:   oasis1qp5px8s93stxulw4ljuz5vdr02cretqatgsateyj
+      Amount: 3128.773938152 ROSE (2914704107388 shares)
+    - From:   oasis1qptdxehmgj587ra0utsnk4nstw2fte907ufqwztu
+      Amount: 1057.598931443 ROSE (985238310719 shares)
+    - From:   oasis1qztd06lesj7rt8pf3jznysnu5ajlav052qklzuc9
+      Amount: 105.954055787 ROSE (98704709162 shares)
+    - From:   oasis1qpd38u5fmaqrsgjrhec8jp0g053qzxw86yrq6dxl
+      Amount: 1.06971237 ROSE (996522952 shares)
+    - From:   oasis1qzvssauz0zkf8mhlvw98fgns0f87u6apcq0ekxf5
+      Amount: 1.041781215 ROSE (970502838 shares)
+    - From:   oasis1qqrt6unykksh3g5xrrrvvn0r2mdpg9s0huttn9fp
+      Amount: 1.006122428 ROSE (937283816 shares)
+    - From:   oasis1qzc0mmj80rym2pkmnngx028wrfquywd9sqasp4jd
+      Amount: 0.394376519 ROSE (367393389 shares)
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 1641
+        rate:  19.0%
+  Rate Bounds:
+    (1) start:        epoch 1641
+        minimum rate: 19.0%
+        maximum rate: 19.5%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.5RIMVgnsN1D/HdvNxXCpE+lWH5U/SGYUrYsvhsTMbyA=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 13
