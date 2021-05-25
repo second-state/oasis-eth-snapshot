@@ -1,0 +1,54 @@
+8rh2lgEm7QscCrLkVqcLMkRxfbNDIe+laI4H8nI/d74=
+oasis1qr5f26k9rnfa2pg6wgsuljyq7lecej3gaqqhyra5
+Balance:
+  Total: 702001.498349084 ROSE
+  Available: 100.000846638 ROSE
+  Active Delegations from this Account:
+    Total: 701901.497502446 ROSE
+    Delegations:
+      - To:     oasis1qr5f26k9rnfa2pg6wgsuljyq7lecej3gaqqhyra5 (self)
+        Amount: 701901.497502446 ROSE (640525899982219 shares)
+
+Active Delegations to this Account:
+  Total: 40440259.36644847 ROSE (36904086425771565 shares)
+  Delegations:
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 29616773.849216196 ROSE (27027027000000000 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6663774.033887096 ROSE (6081081000000000 shares)
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 1780708.529464832 ROSE (1625000000000000 shares)
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 1643730.950275229 ROSE (1500000000000000 shares)
+    - From:   oasis1qr5f26k9rnfa2pg6wgsuljyq7lecej3gaqqhyra5 (self)
+      Amount: 701901.497502446 ROSE (640525899982219 shares)
+    - From:   oasis1qqjysc7e5xqhj7j3605rl7xz8mght9vmpyxek8f4
+      Amount: 30463.593901038 ROSE (27799799501194 shares)
+    - From:   oasis1qpqcwjvuhrzf9gylwx9v4dzq32hlnw0nmyc8ungp
+      Amount: 2906.198452503 ROSE (2652074950603 shares)
+    - From:   oasis1qz8e8ag34p9gze36c69fxp8dxd95avm8vsk6mkag
+      Amount: 0.705493348 ROSE (643803673 shares)
+    - From:   oasis1qpkxk3f3e053t8kma9qsncag8fp787wz45a7ygpt
+      Amount: 0.008255776 ROSE (7533876 shares)
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 0
+        rate:  5.0%
+    (2) start: epoch 1310
+        rate:  18.0%
+  Rate Bounds:
+    (1) start:        epoch 0
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.K5roq8kvag0dzkdauemq4PLfQG/rA4ZeItZ/op2PfGo=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 1
