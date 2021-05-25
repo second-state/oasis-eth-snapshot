@@ -1,0 +1,71 @@
+RDCyARTIdpiG75L9vVXAYIhRCToSrchZkv3JUW3Pji8=
+oasis1qztpm422n7v98f4s7ja0wt5jey7fy3xpg5ye2vtl
+Balance:
+  Total: 3617103.278568917 ROSE
+  Available: 45.000832247 ROSE
+  Active Delegations from this Account:
+    Total: 3617058.27773667 ROSE
+    Delegations:
+      - To:     oasis1qztpm422n7v98f4s7ja0wt5jey7fy3xpg5ye2vtl (self)
+        Amount: 3617058.27773667 ROSE (3268067909439565 shares)
+
+Active Delegations to this Account:
+  Total: 42943618.403380105 ROSE (38800221186129889 shares)
+  Delegations:
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 29913188.60008845 ROSE (27027027000000000 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6730467.352010803 ROSE (6081081000000000 shares)
+    - From:   oasis1qztpm422n7v98f4s7ja0wt5jey7fy3xpg5ye2vtl (self)
+      Amount: 3617058.27773667 ROSE (3268067909439565 shares)
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 1294941.93579277 ROSE (1170000000000000 shares)
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 1195331.017654865 ROSE (1080000000000000 shares)
+    - From:   oasis1qqpelwwqgp8agk448w5g7ypw4pjue70kpqr6kvgj
+      Amount: 105417.167581791 ROSE (95246035873560 shares)
+    - From:   oasis1qztn998azhwkr8ttnc5406xwf93lmdjm0g6ld9cv
+      Amount: 52716.920546502 ROSE (47630550323979 shares)
+    - From:   oasis1qp8pqz4x9ak3d9335kn9npjpz36skml4rckgtvc6
+      Amount: 15655.805219206 ROSE (14145261343519 shares)
+    - From:   oasis1qpu3tc6wm6e64jzfplyhnnh6pxdelp99hvuc66cn
+      Amount: 12809.788456533 ROSE (11573841328236 shares)
+    - From:   oasis1qrlrlvgugnlft0ganedg42p3lzjq4svpxs8qyrhd
+      Amount: 6031.53829251 ROSE (5449587821030 shares)
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 0
+        rate:  5.0%
+  Rate Bounds:
+    (1) start:        epoch 0
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterNode.GWBXv2OxowCLsRGyT/cND2TKEs9kpo4xtvr1JTsB8R0=
+      Staking Thresholds:
+        - Global: node-validator
+    - Name: registry.RegisterRuntime.000000000000000000000000000000000000000000000000000000000000ff00
+      Staking Thresholds:
+        - Global: runtime-compute
+    - Name: registry.RegisterRuntime.000000000000000000000000000000000000000000000000000000000000ff01
+      Staking Thresholds:
+        - Global: runtime-compute
+    - Name: registry.RegisterRuntime.000000000000000000000000000000000000000000000000000000000000ff02
+      Staking Thresholds:
+        - Global: runtime-compute
+    - Name: registry.RegisterRuntime.000000000000000000000000000000000000000000000000000000000000ff03
+      Staking Thresholds:
+        - Global: runtime-compute
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.ApJwFY160W7yWn8mus/WXiXk9spYm2/ar2aftAeSMS8=
+      Staking Thresholds:
+        - Global: node-compute
+      Staking Thresholds:
+        - Global: node-storage
+
+Nonce: 81
