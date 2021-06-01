@@ -1,0 +1,16 @@
+U03eVZSaaFjBvZgegmOE5Mxj7pGshdzlYWrrYE5gaTw=
+oasis1qpq9ezgwhptl6897f96g2m6d92wgxq692vte54jt
+Balance:
+  Total: 202161.830918669 ROSE
+  Available: 202161.830918669 ROSE
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.NhcI+gGA7XFAQ8/B39GEcWMDFDQ6f2ShdlYuPOSiC0A=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 6
