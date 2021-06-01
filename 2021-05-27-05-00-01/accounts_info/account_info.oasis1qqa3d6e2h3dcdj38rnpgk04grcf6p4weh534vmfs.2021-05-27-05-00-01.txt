@@ -1,0 +1,58 @@
+qFLhQqBtg66RSAQhECNshQqn8LIDCTp4Zn5ogK/vhs0=
+oasis1qqa3d6e2h3dcdj38rnpgk04grcf6p4weh534vmfs
+Balance:
+  Total: 118675.968774908 ROSE
+  Available: 0.291920753 ROSE
+  Active Delegations from this Account:
+    Total: 118675.676854155 ROSE
+    Delegations:
+      - To:     oasis1qqa3d6e2h3dcdj38rnpgk04grcf6p4weh534vmfs (self)
+        Amount: 118675.676854155 ROSE (107434327973626 shares)
+
+Active Delegations to this Account:
+  Total: 41948213.149929926 ROSE (37974740982480908 shares)
+  Delegations:
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 29854989.397503552 ROSE (27027027000000000 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6717372.531590703 ROSE (6081081000000000 shares)
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 2728447.483766297 ROSE (2470000000000000 shares)
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 2518566.908091966 ROSE (2280000000000000 shares)
+    - From:   oasis1qqa3d6e2h3dcdj38rnpgk04grcf6p4weh534vmfs (self)
+      Amount: 118675.676854155 ROSE (107434327973626 shares)
+    - From:   oasis1qpa9akqf3chc2lasuwkppx8qargv3602vshg0fem
+      Amount: 10161.15212325 ROSE (9198654507282 shares)
+
+Debonding Delegations to this Account:
+  Total: 999.999999999 ROSE (999999999999 shares)
+  Delegations:
+    - From:     oasis1qp0hhv4qsh37r976hdpx29gessjfpn5j6us06n4t
+      Amount:   999.999999999 ROSE (999999999999 shares)
+      End Time: epoch 5862
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 0
+        rate:  5.0%
+    (2) start: epoch 2114
+        rate:  15.0%
+  Rate Bounds:
+    (1) start:        epoch 0
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+    (2) start:        epoch 2114
+        minimum rate: 0.0%
+        maximum rate: 25.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.D914hsabazXXB69p/dw9UntXRHBc/0eZMY1pO6IQcco=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 19
