@@ -1,0 +1,58 @@
+qFLhQqBtg66RSAQhECNshQqn8LIDCTp4Zn5ogK/vhs0=
+oasis1qqa3d6e2h3dcdj38rnpgk04grcf6p4weh534vmfs
+Balance:
+  Total: 113198.151702642 ROSE
+  Available: 0.291915887 ROSE
+  Active Delegations from this Account:
+    Total: 113197.859786755 ROSE
+    Delegations:
+      - To:     oasis1qqa3d6e2h3dcdj38rnpgk04grcf6p4weh534vmfs (self)
+        Amount: 113197.859786755 ROSE (102550107834699 shares)
+
+Active Delegations to this Account:
+  Total: 41912257.457933877 ROSE (37969856762341981 shares)
+  Delegations:
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 29833236.428481627 ROSE (27027027000000000 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6712478.113621135 ROSE (6081081000000000 shares)
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 2726459.479925395 ROSE (2470000000000000 shares)
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 2516731.827623441 ROSE (2280000000000000 shares)
+    - From:   oasis1qqa3d6e2h3dcdj38rnpgk04grcf6p4weh534vmfs (self)
+      Amount: 113197.859786755 ROSE (102550107834699 shares)
+    - From:   oasis1qpa9akqf3chc2lasuwkppx8qargv3602vshg0fem
+      Amount: 10153.748495521 ROSE (9198654507282 shares)
+
+Debonding Delegations to this Account:
+  Total: 999.999999999 ROSE (999999999999 shares)
+  Delegations:
+    - From:     oasis1qp0hhv4qsh37r976hdpx29gessjfpn5j6us06n4t
+      Amount:   999.999999999 ROSE (999999999999 shares)
+      End Time: epoch 5862
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 0
+        rate:  5.0%
+    (2) start: epoch 2114
+        rate:  15.0%
+  Rate Bounds:
+    (1) start:        epoch 0
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+    (2) start:        epoch 2114
+        minimum rate: 0.0%
+        maximum rate: 25.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterNode.D914hsabazXXB69p/dw9UntXRHBc/0eZMY1pO6IQcco=
+      Staking Thresholds:
+        - Global: node-validator
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+
+Nonce: 19
