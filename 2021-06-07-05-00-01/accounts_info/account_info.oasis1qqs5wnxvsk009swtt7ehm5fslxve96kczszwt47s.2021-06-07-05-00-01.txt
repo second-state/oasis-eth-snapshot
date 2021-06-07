@@ -1,0 +1,135 @@
+VsrHPScBde1FUb+BDWONvLxxwKOKevLB7FRbUAaiF+Y=
+oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s
+Balance:
+  Total: 9922.218586637 ROSE
+  Available: 1448.556214759 ROSE
+  Active Delegations from this Account:
+    Total: 3172.535070483 ROSE
+    Delegations:
+      - To:     oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+        Amount: 3172.535070483 ROSE (2934215786626 shares)
+  Debonding Delegations from this Account:
+    Total: 5301.127301395 ROSE
+    Delegations:
+      - To:       oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+        Amount:   377.819746885 ROSE (377819746885 shares)
+        End Time: epoch 6008
+      - To:       oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+        Amount:   377.950016471 ROSE (377950016471 shares)
+        End Time: epoch 6032
+      - To:       oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+        Amount:   378.079459889 ROSE (378079459889 shares)
+        End Time: epoch 6056
+      - To:       oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+        Amount:   378.208167028 ROSE (378208167028 shares)
+        End Time: epoch 6080
+      - To:       oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+        Amount:   378.336282386 ROSE (378336282386 shares)
+        End Time: epoch 6104
+      - To:       oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+        Amount:   378.46385983 ROSE (378463859830 shares)
+        End Time: epoch 6128
+      - To:       oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+        Amount:   378.590989646 ROSE (378590989646 shares)
+        End Time: epoch 6152
+      - To:       oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+        Amount:   378.717725889 ROSE (378717725889 shares)
+        End Time: epoch 6176
+      - To:       oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+        Amount:   378.844113596 ROSE (378844113596 shares)
+        End Time: epoch 6200
+      - To:       oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+        Amount:   378.970179676 ROSE (378970179676 shares)
+        End Time: epoch 6224
+      - To:       oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+        Amount:   379.09596927 ROSE (379095969270 shares)
+        End Time: epoch 6248
+      - To:       oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+        Amount:   379.221509378 ROSE (379221509378 shares)
+        End Time: epoch 6272
+      - To:       oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+        Amount:   379.352065058 ROSE (379352065058 shares)
+        End Time: epoch 6297
+      - To:       oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+        Amount:   379.477216393 ROSE (379477216393 shares)
+        End Time: epoch 6321
+
+Active Delegations to this Account:
+  Total: 3644624.205889126 ROSE (3370841816922853 shares)
+  Delegations:
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 3641451.670818642 ROSE (3367907601136227 shares)
+    - From:   oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+      Amount: 3172.535070483 ROSE (2934215786626 shares)
+
+Debonding Delegations to this Account:
+  Total: 5301.127301395 ROSE (5301127301395 shares)
+  Delegations:
+    - From:     oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+      Amount:   377.819746885 ROSE (377819746885 shares)
+      End Time: epoch 6008
+    - From:     oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+      Amount:   377.950016471 ROSE (377950016471 shares)
+      End Time: epoch 6032
+    - From:     oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+      Amount:   378.079459889 ROSE (378079459889 shares)
+      End Time: epoch 6056
+    - From:     oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+      Amount:   378.208167028 ROSE (378208167028 shares)
+      End Time: epoch 6080
+    - From:     oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+      Amount:   378.336282386 ROSE (378336282386 shares)
+      End Time: epoch 6104
+    - From:     oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+      Amount:   378.46385983 ROSE (378463859830 shares)
+      End Time: epoch 6128
+    - From:     oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+      Amount:   378.590989646 ROSE (378590989646 shares)
+      End Time: epoch 6152
+    - From:     oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+      Amount:   378.717725889 ROSE (378717725889 shares)
+      End Time: epoch 6176
+    - From:     oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+      Amount:   378.844113596 ROSE (378844113596 shares)
+      End Time: epoch 6200
+    - From:     oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+      Amount:   378.970179676 ROSE (378970179676 shares)
+      End Time: epoch 6224
+    - From:     oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+      Amount:   379.09596927 ROSE (379095969270 shares)
+      End Time: epoch 6248
+    - From:     oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+      Amount:   379.221509378 ROSE (379221509378 shares)
+      End Time: epoch 6272
+    - From:     oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+      Amount:   379.352065058 ROSE (379352065058 shares)
+      End Time: epoch 6297
+    - From:     oasis1qqs5wnxvsk009swtt7ehm5fslxve96kczszwt47s (self)
+      Amount:   379.477216393 ROSE (379477216393 shares)
+      End Time: epoch 6321
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 2303
+        rate:  20.0%
+  Rate Bounds:
+    (1) start:        epoch 801
+        minimum rate: 0.0%
+        maximum rate: 100.0%
+    (2) start:        epoch 2878
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.1H7P+bApUfdtCj/o63sSW2u2bbAUDmKn4sSzSK8CHPM=
+      Staking Thresholds:
+        - Global: node-compute
+    - Name: registry.RegisterNode.e25jqMK9FwlwuV1VPS/dkriJlYh7zKp+1H9B8xAu2LI=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 373
