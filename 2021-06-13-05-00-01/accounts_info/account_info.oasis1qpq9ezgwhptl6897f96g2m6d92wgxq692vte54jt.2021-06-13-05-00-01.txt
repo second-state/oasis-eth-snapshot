@@ -1,0 +1,13 @@
+U03eVZSaaFjBvZgegmOE5Mxj7pGshdzlYWrrYE5gaTw=
+oasis1qpq9ezgwhptl6897f96g2m6d92wgxq692vte54jt
+Balance:
+  Total: 0.030916669 ROSE
+  Available: 0.030916669 ROSE
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+
+Nonce: 7

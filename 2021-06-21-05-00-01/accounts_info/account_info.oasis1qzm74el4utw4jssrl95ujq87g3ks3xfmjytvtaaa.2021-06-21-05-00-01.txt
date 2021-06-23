@@ -1,0 +1,1951 @@
+KVsiBHzBommqe0VwchA2QHqp/JT8B136up4Ru+r/xkg=
+oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa
+Balance:
+  Total: 166855.78096948 ROSE
+  Available: 499.10524396 ROSE
+  Active Delegations from this Account:
+    Total: 605.249204171 ROSE
+    Delegations:
+      - To:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount: 605.249204171 ROSE (547880715719 shares)
+  Debonding Delegations from this Account:
+    Total: 165751.426521349 ROSE
+    Delegations:
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   498.07317096 ROSE (498073170960 shares)
+        End Time: epoch 6329
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   497.20037718 ROSE (497200377180 shares)
+        End Time: epoch 6330
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   497.218276524 ROSE (497218276524 shares)
+        End Time: epoch 6331
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   497.214182939 ROSE (497214182939 shares)
+        End Time: epoch 6332
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   497.23208278 ROSE (497232082780 shares)
+        End Time: epoch 6333
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   497.227989082 ROSE (497227989082 shares)
+        End Time: epoch 6334
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   497.245889419 ROSE (497245889419 shares)
+        End Time: epoch 6335
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   497.241795608 ROSE (497241795608 shares)
+        End Time: epoch 6336
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   497.259696442 ROSE (497259696442 shares)
+        End Time: epoch 6337
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   497.255602517 ROSE (497255602517 shares)
+        End Time: epoch 6338
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   497.273503849 ROSE (497273503849 shares)
+        End Time: epoch 6339
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   4476.020777304 ROSE (4476020777304 shares)
+        End Time: epoch 6348
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   497.331547372 ROSE (497331547372 shares)
+        End Time: epoch 6349
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   497.349451437 ROSE (497349451437 shares)
+        End Time: epoch 6350
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   497.345356773 ROSE (497345356773 shares)
+        End Time: epoch 6351
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   497.363261336 ROSE (497363261336 shares)
+        End Time: epoch 6352
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   497.359166558 ROSE (497359166558 shares)
+        End Time: epoch 6353
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.508057681 ROSE (496508057681 shares)
+        End Time: epoch 6354
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.50393866 ROSE (496503938660 shares)
+        End Time: epoch 6355
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.510819757 ROSE (496510819757 shares)
+        End Time: epoch 6356
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.528701431 ROSE (496528701431 shares)
+        End Time: epoch 6357
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.524582239 ROSE (496524582239 shares)
+        End Time: epoch 6358
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.531463623 ROSE (496531463623 shares)
+        End Time: epoch 6359
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.54934604 ROSE (496549346040 shares)
+        End Time: epoch 6360
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.545226677 ROSE (496545226677 shares)
+        End Time: epoch 6361
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.552108347 ROSE (496552108347 shares)
+        End Time: epoch 6362
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.558990112 ROSE (496558990112 shares)
+        End Time: epoch 6363
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.576873521 ROSE (496576873521 shares)
+        End Time: epoch 6364
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.572753929 ROSE (496572753929 shares)
+        End Time: epoch 6365
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.57963598 ROSE (496579635980 shares)
+        End Time: epoch 6366
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.597520132 ROSE (496597520132 shares)
+        End Time: epoch 6367
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.593400369 ROSE (496593400369 shares)
+        End Time: epoch 6368
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.600282707 ROSE (496600282707 shares)
+        End Time: epoch 6369
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.618167603 ROSE (496618167603 shares)
+        End Time: epoch 6370
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.614047668 ROSE (496614047668 shares)
+        End Time: epoch 6371
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.620930292 ROSE (496620930292 shares)
+        End Time: epoch 6372
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.638815931 ROSE (496638815931 shares)
+        End Time: epoch 6373
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.634695826 ROSE (496634695826 shares)
+        End Time: epoch 6374
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.641578735 ROSE (496641578735 shares)
+        End Time: epoch 6375
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.659465119 ROSE (496659465119 shares)
+        End Time: epoch 6376
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.655344841 ROSE (496655344841 shares)
+        End Time: epoch 6377
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.079024811 ROSE (496079024811 shares)
+        End Time: epoch 6378
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.096895819 ROSE (496096895819 shares)
+        End Time: epoch 6379
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.103763238 ROSE (496103763238 shares)
+        End Time: epoch 6380
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.099626614 ROSE (496099626614 shares)
+        End Time: epoch 6381
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.117498363 ROSE (496117498363 shares)
+        End Time: epoch 6382
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.113361624 ROSE (496113361624 shares)
+        End Time: epoch 6383
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.131233868 ROSE (496131233868 shares)
+        End Time: epoch 6384
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.127097014 ROSE (496127097014 shares)
+        End Time: epoch 6385
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.144969753 ROSE (496144969753 shares)
+        End Time: epoch 6386
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.151837838 ROSE (496151837838 shares)
+        End Time: epoch 6387
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.147700813 ROSE (496147700813 shares)
+        End Time: epoch 6388
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.165574294 ROSE (496165574294 shares)
+        End Time: epoch 6389
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.161437154 ROSE (496161437154 shares)
+        End Time: epoch 6390
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.17931113 ROSE (496179311130 shares)
+        End Time: epoch 6391
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.175173875 ROSE (496175173875 shares)
+        End Time: epoch 6392
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.193048346 ROSE (496193048346 shares)
+        End Time: epoch 6393
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.188910977 ROSE (496188910977 shares)
+        End Time: epoch 6394
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.206785943 ROSE (496206785943 shares)
+        End Time: epoch 6395
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.213654884 ROSE (496213654884 shares)
+        End Time: epoch 6396
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.209517343 ROSE (496209517343 shares)
+        End Time: epoch 6397
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.227393051 ROSE (496227393051 shares)
+        End Time: epoch 6398
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.223255395 ROSE (496223255395 shares)
+        End Time: epoch 6399
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.241131598 ROSE (496241131598 shares)
+        End Time: epoch 6400
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   496.236993828 ROSE (496236993828 shares)
+        End Time: epoch 6401
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.67147353 ROSE (495671473530 shares)
+        End Time: epoch 6402
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.678327031 ROSE (495678327031 shares)
+        End Time: epoch 6403
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.685180627 ROSE (495685180627 shares)
+        End Time: epoch 6404
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.692034317 ROSE (495692034317 shares)
+        End Time: epoch 6405
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.687880154 ROSE (495687880154 shares)
+        End Time: epoch 6406
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.705741982 ROSE (495705741982 shares)
+        End Time: epoch 6407
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.712595956 ROSE (495712595956 shares)
+        End Time: epoch 6408
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.719450026 ROSE (495719450026 shares)
+        End Time: epoch 6409
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.72630419 ROSE (495726304190 shares)
+        End Time: epoch 6410
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.72214974 ROSE (495722149740 shares)
+        End Time: epoch 6411
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.740012802 ROSE (495740012802 shares)
+        End Time: epoch 6412
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.746867251 ROSE (495746867251 shares)
+        End Time: epoch 6413
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.753721794 ROSE (495753721794 shares)
+        End Time: epoch 6414
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.760576432 ROSE (495760576432 shares)
+        End Time: epoch 6415
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.756421695 ROSE (495756421695 shares)
+        End Time: epoch 6416
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.774285992 ROSE (495774285992 shares)
+        End Time: epoch 6417
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.781140915 ROSE (495781140915 shares)
+        End Time: epoch 6418
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.787995932 ROSE (495787995932 shares)
+        End Time: epoch 6419
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.794851044 ROSE (495794851044 shares)
+        End Time: epoch 6420
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.790696019 ROSE (495790696019 shares)
+        End Time: epoch 6421
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.808561552 ROSE (495808561552 shares)
+        End Time: epoch 6422
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.815416948 ROSE (495815416948 shares)
+        End Time: epoch 6423
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.822272439 ROSE (495822272439 shares)
+        End Time: epoch 6424
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.829128025 ROSE (495829128025 shares)
+        End Time: epoch 6425
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.252393103 ROSE (495252393103 shares)
+        End Time: epoch 6426
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.259232786 ROSE (495259232786 shares)
+        End Time: epoch 6427
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.266072564 ROSE (495266072564 shares)
+        End Time: epoch 6428
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.272912436 ROSE (495272912436 shares)
+        End Time: epoch 6429
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.279752402 ROSE (495279752402 shares)
+        End Time: epoch 6430
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.286592463 ROSE (495286592463 shares)
+        End Time: epoch 6431
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.293432619 ROSE (495293432619 shares)
+        End Time: epoch 6432
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.300272869 ROSE (495300272869 shares)
+        End Time: epoch 6433
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.307113213 ROSE (495307113213 shares)
+        End Time: epoch 6434
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.313953652 ROSE (495313953652 shares)
+        End Time: epoch 6435
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.320794186 ROSE (495320794186 shares)
+        End Time: epoch 6436
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.327634813 ROSE (495327634813 shares)
+        End Time: epoch 6437
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.334475536 ROSE (495334475536 shares)
+        End Time: epoch 6438
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.341316352 ROSE (495341316352 shares)
+        End Time: epoch 6439
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.348157264 ROSE (495348157264 shares)
+        End Time: epoch 6440
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.354998269 ROSE (495354998269 shares)
+        End Time: epoch 6441
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.36183937 ROSE (495361839370 shares)
+        End Time: epoch 6442
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.368680564 ROSE (495368680564 shares)
+        End Time: epoch 6443
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.375521854 ROSE (495375521854 shares)
+        End Time: epoch 6444
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.382363237 ROSE (495382363237 shares)
+        End Time: epoch 6445
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.389204715 ROSE (495389204715 shares)
+        End Time: epoch 6446
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.396046288 ROSE (495396046288 shares)
+        End Time: epoch 6447
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.402887955 ROSE (495402887955 shares)
+        End Time: epoch 6448
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   495.420744207 ROSE (495420744207 shares)
+        End Time: epoch 6449
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.832787526 ROSE (494832787526 shares)
+        End Time: epoch 6450
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.839613398 ROSE (494839613398 shares)
+        End Time: epoch 6451
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.846439364 ROSE (494846439364 shares)
+        End Time: epoch 6452
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.864280522 ROSE (494864280522 shares)
+        End Time: epoch 6453
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.860091579 ROSE (494860091579 shares)
+        End Time: epoch 6454
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.866917827 ROSE (494866917827 shares)
+        End Time: epoch 6455
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.884759724 ROSE (494884759724 shares)
+        End Time: epoch 6456
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.880570607 ROSE (494880570607 shares)
+        End Time: epoch 6457
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.887397138 ROSE (494887397138 shares)
+        End Time: epoch 6458
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.894223763 ROSE (494894223763 shares)
+        End Time: epoch 6459
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.912066644 ROSE (494912066644 shares)
+        End Time: epoch 6460
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.907877296 ROSE (494907877296 shares)
+        End Time: epoch 6461
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.914704204 ROSE (494914704204 shares)
+        End Time: epoch 6462
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.921531206 ROSE (494921531206 shares)
+        End Time: epoch 6463
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.939375071 ROSE (494939375071 shares)
+        End Time: epoch 6464
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.935185492 ROSE (494935185492 shares)
+        End Time: epoch 6465
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.942012777 ROSE (494942012777 shares)
+        End Time: epoch 6466
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.95985738 ROSE (494959857380 shares)
+        End Time: epoch 6467
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.955667628 ROSE (494955667628 shares)
+        End Time: epoch 6468
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.962495195 ROSE (494962495195 shares)
+        End Time: epoch 6469
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.969322856 ROSE (494969322856 shares)
+        End Time: epoch 6470
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.987168444 ROSE (494987168444 shares)
+        End Time: epoch 6471
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.982978461 ROSE (494982978461 shares)
+        End Time: epoch 6472
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.989806405 ROSE (494989806405 shares)
+        End Time: epoch 6473
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.423675404 ROSE (494423675404 shares)
+        End Time: epoch 6474
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.419469182 ROSE (494419469182 shares)
+        End Time: epoch 6475
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.437299935 ROSE (494437299935 shares)
+        End Time: epoch 6476
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.433093597 ROSE (494433093597 shares)
+        End Time: epoch 6477
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.450924842 ROSE (494450924842 shares)
+        End Time: epoch 6478
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.446718389 ROSE (494446718389 shares)
+        End Time: epoch 6479
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.464550125 ROSE (494464550125 shares)
+        End Time: epoch 6480
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.460343555 ROSE (494460343555 shares)
+        End Time: epoch 6481
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.478175783 ROSE (494478175783 shares)
+        End Time: epoch 6482
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.484988752 ROSE (494484988752 shares)
+        End Time: epoch 6483
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.480782009 ROSE (494480782009 shares)
+        End Time: epoch 6484
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.498614973 ROSE (494498614973 shares)
+        End Time: epoch 6485
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.494408114 ROSE (494494408114 shares)
+        End Time: epoch 6486
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.51224157 ROSE (494512241570 shares)
+        End Time: epoch 6487
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.508034595 ROSE (494508034595 shares)
+        End Time: epoch 6488
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.525868542 ROSE (494525868542 shares)
+        End Time: epoch 6489
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.521661451 ROSE (494521661451 shares)
+        End Time: epoch 6490
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.53949589 ROSE (494539495890 shares)
+        End Time: epoch 6491
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.535288683 ROSE (494535288683 shares)
+        End Time: epoch 6492
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.553123613 ROSE (494553123613 shares)
+        End Time: epoch 6493
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.54891629 ROSE (494548916290 shares)
+        End Time: epoch 6494
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.566751712 ROSE (494566751712 shares)
+        End Time: epoch 6495
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.562544273 ROSE (494562544273 shares)
+        End Time: epoch 6496
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.580380186 ROSE (494580380186 shares)
+        End Time: epoch 6497
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.289598372 ROSE (494289598372 shares)
+        End Time: epoch 6498
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.29640474 ROSE (494296404740 shares)
+        End Time: epoch 6499
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.303211201 ROSE (494303211201 shares)
+        End Time: epoch 6500
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.310017756 ROSE (494310017756 shares)
+        End Time: epoch 6501
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.327846945 ROSE (494327846945 shares)
+        End Time: epoch 6502
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.323631148 ROSE (494323631148 shares)
+        End Time: epoch 6503
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.330437984 ROSE (494330437984 shares)
+        End Time: epoch 6504
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.337244915 ROSE (494337244915 shares)
+        End Time: epoch 6505
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.344051938 ROSE (494344051938 shares)
+        End Time: epoch 6506
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.350859056 ROSE (494350859056 shares)
+        End Time: epoch 6507
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.357666267 ROSE (494357666267 shares)
+        End Time: epoch 6508
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.375497175 ROSE (494375497175 shares)
+        End Time: epoch 6509
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.371280971 ROSE (494371280971 shares)
+        End Time: epoch 6510
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.378088464 ROSE (494378088464 shares)
+        End Time: epoch 6511
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.38489605 ROSE (494384896050 shares)
+        End Time: epoch 6512
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.39170373 ROSE (494391703730 shares)
+        End Time: epoch 6513
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.398511504 ROSE (494398511504 shares)
+        End Time: epoch 6514
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.405319371 ROSE (494405319371 shares)
+        End Time: epoch 6515
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.423151998 ROSE (494423151998 shares)
+        End Time: epoch 6516
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.418935388 ROSE (494418935388 shares)
+        End Time: epoch 6517
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.425743536 ROSE (494425743536 shares)
+        End Time: epoch 6518
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.432551779 ROSE (494432551779 shares)
+        End Time: epoch 6519
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.439360115 ROSE (494439360115 shares)
+        End Time: epoch 6520
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.446168545 ROSE (494446168545 shares)
+        End Time: epoch 6521
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.879639121 ROSE (493879639121 shares)
+        End Time: epoch 6522
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.875406115 ROSE (493875406115 shares)
+        End Time: epoch 6523
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.882198779 ROSE (493882198779 shares)
+        End Time: epoch 6524
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.900017567 ROSE (493900017567 shares)
+        End Time: epoch 6525
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.895784386 ROSE (493895784386 shares)
+        End Time: epoch 6526
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.913603664 ROSE (493913603664 shares)
+        End Time: epoch 6527
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.909370367 ROSE (493909370367 shares)
+        End Time: epoch 6528
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.916163498 ROSE (493916163498 shares)
+        End Time: epoch 6529
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.933983511 ROSE (493933983511 shares)
+        End Time: epoch 6530
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.92975004 ROSE (493929750040 shares)
+        End Time: epoch 6531
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.936543451 ROSE (493936543451 shares)
+        End Time: epoch 6532
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.954364199 ROSE (493954364199 shares)
+        End Time: epoch 6533
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.950130553 ROSE (493950130553 shares)
+        End Time: epoch 6534
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.967951792 ROSE (493967951792 shares)
+        End Time: epoch 6535
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.963718029 ROSE (493963718029 shares)
+        End Time: epoch 6536
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.970511907 ROSE (493970511907 shares)
+        End Time: epoch 6537
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.988333881 ROSE (493988333881 shares)
+        End Time: epoch 6538
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.984099944 ROSE (493984099944 shares)
+        End Time: epoch 6539
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.990894103 ROSE (493990894103 shares)
+        End Time: epoch 6540
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.008716812 ROSE (494008716812 shares)
+        End Time: epoch 6541
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.0044827 ROSE (494004482700 shares)
+        End Time: epoch 6542
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.022305899 ROSE (494022305899 shares)
+        End Time: epoch 6543
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.018071671 ROSE (494018071671 shares)
+        End Time: epoch 6544
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   494.024866297 ROSE (494024866297 shares)
+        End Time: epoch 6545
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.744897407 ROSE (493744897407 shares)
+        End Time: epoch 6546
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.751684277 ROSE (493751684277 shares)
+        End Time: epoch 6547
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.758471239 ROSE (493758471239 shares)
+        End Time: epoch 6548
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.765258295 ROSE (493765258295 shares)
+        End Time: epoch 6549
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.772045444 ROSE (493772045444 shares)
+        End Time: epoch 6550
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.778832686 ROSE (493778832686 shares)
+        End Time: epoch 6551
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.785620022 ROSE (493785620022 shares)
+        End Time: epoch 6552
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.792407451 ROSE (493792407451 shares)
+        End Time: epoch 6553
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.799194973 ROSE (493799194973 shares)
+        End Time: epoch 6554
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.805982589 ROSE (493805982589 shares)
+        End Time: epoch 6555
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.812770298 ROSE (493812770298 shares)
+        End Time: epoch 6556
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.8195581 ROSE (493819558100 shares)
+        End Time: epoch 6557
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.826345996 ROSE (493826345996 shares)
+        End Time: epoch 6558
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.833133984 ROSE (493833133984 shares)
+        End Time: epoch 6559
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.839922066 ROSE (493839922066 shares)
+        End Time: epoch 6560
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.846710242 ROSE (493846710242 shares)
+        End Time: epoch 6561
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.853498511 ROSE (493853498511 shares)
+        End Time: epoch 6562
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.860286873 ROSE (493860286873 shares)
+        End Time: epoch 6563
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.867075328 ROSE (493867075328 shares)
+        End Time: epoch 6564
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.873863877 ROSE (493873863877 shares)
+        End Time: epoch 6565
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.880652519 ROSE (493880652519 shares)
+        End Time: epoch 6566
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.887441254 ROSE (493887441254 shares)
+        End Time: epoch 6567
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.894230083 ROSE (493894230083 shares)
+        End Time: epoch 6568
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.901019004 ROSE (493901019004 shares)
+        End Time: epoch 6569
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.620949798 ROSE (493620949798 shares)
+        End Time: epoch 6570
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.627730965 ROSE (493627730965 shares)
+        End Time: epoch 6571
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.623479068 ROSE (493623479068 shares)
+        End Time: epoch 6572
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.641293579 ROSE (493641293579 shares)
+        End Time: epoch 6573
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.648075026 ROSE (493648075026 shares)
+        End Time: epoch 6574
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.643822953 ROSE (493643822953 shares)
+        End Time: epoch 6575
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.661638199 ROSE (493661638199 shares)
+        End Time: epoch 6576
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.657386009 ROSE (493657386009 shares)
+        End Time: epoch 6577
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.675201744 ROSE (493675201744 shares)
+        End Time: epoch 6578
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   987.366496954 ROSE (987366496954 shares)
+        End Time: epoch 6580
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.695547761 ROSE (493695547761 shares)
+        End Time: epoch 6581
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.702329953 ROSE (493702329953 shares)
+        End Time: epoch 6582
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.709112238 ROSE (493709112238 shares)
+        End Time: epoch 6583
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.704859639 ROSE (493704859639 shares)
+        End Time: epoch 6584
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.722677088 ROSE (493722677088 shares)
+        End Time: epoch 6585
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.718424372 ROSE (493718424372 shares)
+        End Time: epoch 6586
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.73624231 ROSE (493736242310 shares)
+        End Time: epoch 6587
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.731989478 ROSE (493731989478 shares)
+        End Time: epoch 6588
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.749807905 ROSE (493749807905 shares)
+        End Time: epoch 6589
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.756590843 ROSE (493756590843 shares)
+        End Time: epoch 6590
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.752337835 ROSE (493752337835 shares)
+        End Time: epoch 6591
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.83637413 ROSE (493836374130 shares)
+        End Time: epoch 6592
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.710722166 ROSE (493710722166 shares)
+        End Time: epoch 6593
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.187744924 ROSE (493187744924 shares)
+        End Time: epoch 6594
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.216585439 ROSE (493216585439 shares)
+        End Time: epoch 6595
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   0.08829436 ROSE (88294360 shares)
+        End Time: epoch 6596
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   0.088295568 ROSE (88295568 shares)
+        End Time: epoch 6597
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   0.088296784 ROSE (88296784 shares)
+        End Time: epoch 6598
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   0.088297992 ROSE (88297992 shares)
+        End Time: epoch 6599
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   0.088299208 ROSE (88299208 shares)
+        End Time: epoch 6600
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   0.088300416 ROSE (88300416 shares)
+        End Time: epoch 6601
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   3452.251689181 ROSE (3452251689181 shares)
+        End Time: epoch 6602
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   1973.131022627 ROSE (1973131022627 shares)
+        End Time: epoch 6606
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   986.587066313 ROSE (986587066313 shares)
+        End Time: epoch 6608
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   986.61414121 ROSE (986614141210 shares)
+        End Time: epoch 6610
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   986.64121685 ROSE (986641216850 shares)
+        End Time: epoch 6612
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   986.668293233 ROSE (986668293233 shares)
+        End Time: epoch 6614
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   986.69537036 ROSE (986695370360 shares)
+        End Time: epoch 6616
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   986.722448229 ROSE (986722448229 shares)
+        End Time: epoch 6618
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   986.749526842 ROSE (986749526842 shares)
+        End Time: epoch 6620
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.370492631 ROSE (493370492631 shares)
+        End Time: epoch 6621
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.377262365 ROSE (493377262365 shares)
+        End Time: epoch 6622
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.395073077 ROSE (493395073077 shares)
+        End Time: epoch 6623
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   986.817226625 ROSE (986817226625 shares)
+        End Time: epoch 6625
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   986.844307838 ROSE (986844307838 shares)
+        End Time: epoch 6627
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.428924362 ROSE (493428924362 shares)
+        End Time: epoch 6628
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.435694897 ROSE (493435694897 shares)
+        End Time: epoch 6629
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.442465526 ROSE (493442465526 shares)
+        End Time: epoch 6630
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.449236247 ROSE (493449236247 shares)
+        End Time: epoch 6631
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.444964813 ROSE (493444964813 shares)
+        End Time: epoch 6632
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.462777969 ROSE (493462777969 shares)
+        End Time: epoch 6633
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.469548969 ROSE (493469548969 shares)
+        End Time: epoch 6634
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.476320062 ROSE (493476320062 shares)
+        End Time: epoch 6635
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.483091248 ROSE (493483091248 shares)
+        End Time: epoch 6636
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.489862527 ROSE (493489862527 shares)
+        End Time: epoch 6637
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.496633899 ROSE (493496633899 shares)
+        End Time: epoch 6638
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.492362054 ROSE (493492362054 shares)
+        End Time: epoch 6639
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.510176921 ROSE (493510176921 shares)
+        End Time: epoch 6640
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.516948572 ROSE (493516948572 shares)
+        End Time: epoch 6641
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.523720315 ROSE (493523720315 shares)
+        End Time: epoch 6642
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.530492151 ROSE (493530492151 shares)
+        End Time: epoch 6643
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.537264081 ROSE (493537264081 shares)
+        End Time: epoch 6644
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.544036103 ROSE (493544036103 shares)
+        End Time: epoch 6645
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.550808218 ROSE (493550808218 shares)
+        End Time: epoch 6646
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.546535905 ROSE (493546535905 shares)
+        End Time: epoch 6647
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.564352727 ROSE (493564352727 shares)
+        End Time: epoch 6648
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.571125121 ROSE (493571125121 shares)
+        End Time: epoch 6649
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.577897608 ROSE (493577897608 shares)
+        End Time: epoch 6650
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.584670188 ROSE (493584670188 shares)
+        End Time: epoch 6651
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.59144286 ROSE (493591442860 shares)
+        End Time: epoch 6652
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.598215626 ROSE (493598215626 shares)
+        End Time: epoch 6653
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.593942902 ROSE (493593942902 shares)
+        End Time: epoch 6654
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.611761436 ROSE (493611761436 shares)
+        End Time: epoch 6655
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.61853448 ROSE (493618534480 shares)
+        End Time: epoch 6656
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.625307618 ROSE (493625307618 shares)
+        End Time: epoch 6657
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.632080848 ROSE (493632080848 shares)
+        End Time: epoch 6658
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.638854171 ROSE (493638854171 shares)
+        End Time: epoch 6659
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.645627587 ROSE (493645627587 shares)
+        End Time: epoch 6660
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.641354453 ROSE (493641354453 shares)
+        End Time: epoch 6661
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.659174699 ROSE (493659174699 shares)
+        End Time: epoch 6662
+      - To:       oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+        Amount:   493.665948394 ROSE (493665948394 shares)
+        End Time: epoch 6663
+
+Active Delegations to this Account:
+  Total: 153383327.969067423 ROSE (138844903765076847 shares)
+  Delegations:
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 60676186.59562233 ROSE (54925000000000000 shares)
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 56008787.626728304 ROSE (50700000000000000 shares)
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 29857022.000490173 ROSE (27027027000000000 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6717829.867257053 ROSE (6081081000000000 shares)
+    - From:   oasis1qrsaezr2lfnrzeqg6rklv7ktkxkl2c2ru5sav8np
+      Amount: 117898.69757261 ROSE (106723680697541 shares)
+    - From:   oasis1qpwwsalze2cxj2c2w9psteadvkc967sa9y0e96qh
+      Amount: 3022.262695543 ROSE (2735797812394 shares)
+    - From:   oasis1qqmgudclw9xd80ndv9327upjaq9n2tv8a5a5zj3z
+      Amount: 794.54108499 ROSE (719230583556 shares)
+    - From:   oasis1qrryqgjvlk4x6ameu35qxazmk9fjcm5tevnker5u
+      Amount: 756.040479311 ROSE (684379254137 shares)
+    - From:   oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount: 605.249204171 ROSE (547880715719 shares)
+    - From:   oasis1qz35sjscsd86nwrwlepr3ndgja533vzw7ckh0jel
+      Amount: 179.207692035 ROSE (162221507931 shares)
+    - From:   oasis1qz0r0kec4zhawa5rhz4hep7gtnwq6qtk6572g82l
+      Amount: 141.300778648 ROSE (127907597737 shares)
+    - From:   oasis1qr2hg53gd347sy39s5zjg93q706wxv64sucgjaxv
+      Amount: 104.579462249 ROSE (94666907832 shares)
+
+Debonding Delegations to this Account:
+  Total: 165751.426521349 ROSE (165751426521349 shares)
+  Delegations:
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   498.07317096 ROSE (498073170960 shares)
+      End Time: epoch 6329
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   497.20037718 ROSE (497200377180 shares)
+      End Time: epoch 6330
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   497.218276524 ROSE (497218276524 shares)
+      End Time: epoch 6331
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   497.214182939 ROSE (497214182939 shares)
+      End Time: epoch 6332
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   497.23208278 ROSE (497232082780 shares)
+      End Time: epoch 6333
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   497.227989082 ROSE (497227989082 shares)
+      End Time: epoch 6334
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   497.245889419 ROSE (497245889419 shares)
+      End Time: epoch 6335
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   497.241795608 ROSE (497241795608 shares)
+      End Time: epoch 6336
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   497.259696442 ROSE (497259696442 shares)
+      End Time: epoch 6337
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   497.255602517 ROSE (497255602517 shares)
+      End Time: epoch 6338
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   497.273503849 ROSE (497273503849 shares)
+      End Time: epoch 6339
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   4476.020777304 ROSE (4476020777304 shares)
+      End Time: epoch 6348
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   497.331547372 ROSE (497331547372 shares)
+      End Time: epoch 6349
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   497.349451437 ROSE (497349451437 shares)
+      End Time: epoch 6350
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   497.345356773 ROSE (497345356773 shares)
+      End Time: epoch 6351
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   497.363261336 ROSE (497363261336 shares)
+      End Time: epoch 6352
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   497.359166558 ROSE (497359166558 shares)
+      End Time: epoch 6353
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.508057681 ROSE (496508057681 shares)
+      End Time: epoch 6354
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.50393866 ROSE (496503938660 shares)
+      End Time: epoch 6355
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.510819757 ROSE (496510819757 shares)
+      End Time: epoch 6356
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.528701431 ROSE (496528701431 shares)
+      End Time: epoch 6357
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.524582239 ROSE (496524582239 shares)
+      End Time: epoch 6358
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.531463623 ROSE (496531463623 shares)
+      End Time: epoch 6359
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.54934604 ROSE (496549346040 shares)
+      End Time: epoch 6360
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.545226677 ROSE (496545226677 shares)
+      End Time: epoch 6361
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.552108347 ROSE (496552108347 shares)
+      End Time: epoch 6362
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.558990112 ROSE (496558990112 shares)
+      End Time: epoch 6363
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.576873521 ROSE (496576873521 shares)
+      End Time: epoch 6364
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.572753929 ROSE (496572753929 shares)
+      End Time: epoch 6365
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.57963598 ROSE (496579635980 shares)
+      End Time: epoch 6366
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.597520132 ROSE (496597520132 shares)
+      End Time: epoch 6367
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.593400369 ROSE (496593400369 shares)
+      End Time: epoch 6368
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.600282707 ROSE (496600282707 shares)
+      End Time: epoch 6369
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.618167603 ROSE (496618167603 shares)
+      End Time: epoch 6370
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.614047668 ROSE (496614047668 shares)
+      End Time: epoch 6371
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.620930292 ROSE (496620930292 shares)
+      End Time: epoch 6372
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.638815931 ROSE (496638815931 shares)
+      End Time: epoch 6373
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.634695826 ROSE (496634695826 shares)
+      End Time: epoch 6374
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.641578735 ROSE (496641578735 shares)
+      End Time: epoch 6375
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.659465119 ROSE (496659465119 shares)
+      End Time: epoch 6376
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.655344841 ROSE (496655344841 shares)
+      End Time: epoch 6377
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.079024811 ROSE (496079024811 shares)
+      End Time: epoch 6378
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.096895819 ROSE (496096895819 shares)
+      End Time: epoch 6379
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.103763238 ROSE (496103763238 shares)
+      End Time: epoch 6380
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.099626614 ROSE (496099626614 shares)
+      End Time: epoch 6381
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.117498363 ROSE (496117498363 shares)
+      End Time: epoch 6382
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.113361624 ROSE (496113361624 shares)
+      End Time: epoch 6383
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.131233868 ROSE (496131233868 shares)
+      End Time: epoch 6384
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.127097014 ROSE (496127097014 shares)
+      End Time: epoch 6385
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.144969753 ROSE (496144969753 shares)
+      End Time: epoch 6386
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.151837838 ROSE (496151837838 shares)
+      End Time: epoch 6387
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.147700813 ROSE (496147700813 shares)
+      End Time: epoch 6388
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.165574294 ROSE (496165574294 shares)
+      End Time: epoch 6389
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.161437154 ROSE (496161437154 shares)
+      End Time: epoch 6390
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.17931113 ROSE (496179311130 shares)
+      End Time: epoch 6391
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.175173875 ROSE (496175173875 shares)
+      End Time: epoch 6392
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.193048346 ROSE (496193048346 shares)
+      End Time: epoch 6393
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.188910977 ROSE (496188910977 shares)
+      End Time: epoch 6394
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.206785943 ROSE (496206785943 shares)
+      End Time: epoch 6395
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.213654884 ROSE (496213654884 shares)
+      End Time: epoch 6396
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.209517343 ROSE (496209517343 shares)
+      End Time: epoch 6397
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.227393051 ROSE (496227393051 shares)
+      End Time: epoch 6398
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.223255395 ROSE (496223255395 shares)
+      End Time: epoch 6399
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.241131598 ROSE (496241131598 shares)
+      End Time: epoch 6400
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   496.236993828 ROSE (496236993828 shares)
+      End Time: epoch 6401
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.67147353 ROSE (495671473530 shares)
+      End Time: epoch 6402
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.678327031 ROSE (495678327031 shares)
+      End Time: epoch 6403
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.685180627 ROSE (495685180627 shares)
+      End Time: epoch 6404
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.692034317 ROSE (495692034317 shares)
+      End Time: epoch 6405
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.687880154 ROSE (495687880154 shares)
+      End Time: epoch 6406
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.705741982 ROSE (495705741982 shares)
+      End Time: epoch 6407
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.712595956 ROSE (495712595956 shares)
+      End Time: epoch 6408
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.719450026 ROSE (495719450026 shares)
+      End Time: epoch 6409
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.72630419 ROSE (495726304190 shares)
+      End Time: epoch 6410
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.72214974 ROSE (495722149740 shares)
+      End Time: epoch 6411
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.740012802 ROSE (495740012802 shares)
+      End Time: epoch 6412
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.746867251 ROSE (495746867251 shares)
+      End Time: epoch 6413
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.753721794 ROSE (495753721794 shares)
+      End Time: epoch 6414
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.760576432 ROSE (495760576432 shares)
+      End Time: epoch 6415
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.756421695 ROSE (495756421695 shares)
+      End Time: epoch 6416
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.774285992 ROSE (495774285992 shares)
+      End Time: epoch 6417
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.781140915 ROSE (495781140915 shares)
+      End Time: epoch 6418
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.787995932 ROSE (495787995932 shares)
+      End Time: epoch 6419
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.794851044 ROSE (495794851044 shares)
+      End Time: epoch 6420
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.790696019 ROSE (495790696019 shares)
+      End Time: epoch 6421
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.808561552 ROSE (495808561552 shares)
+      End Time: epoch 6422
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.815416948 ROSE (495815416948 shares)
+      End Time: epoch 6423
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.822272439 ROSE (495822272439 shares)
+      End Time: epoch 6424
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.829128025 ROSE (495829128025 shares)
+      End Time: epoch 6425
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.252393103 ROSE (495252393103 shares)
+      End Time: epoch 6426
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.259232786 ROSE (495259232786 shares)
+      End Time: epoch 6427
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.266072564 ROSE (495266072564 shares)
+      End Time: epoch 6428
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.272912436 ROSE (495272912436 shares)
+      End Time: epoch 6429
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.279752402 ROSE (495279752402 shares)
+      End Time: epoch 6430
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.286592463 ROSE (495286592463 shares)
+      End Time: epoch 6431
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.293432619 ROSE (495293432619 shares)
+      End Time: epoch 6432
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.300272869 ROSE (495300272869 shares)
+      End Time: epoch 6433
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.307113213 ROSE (495307113213 shares)
+      End Time: epoch 6434
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.313953652 ROSE (495313953652 shares)
+      End Time: epoch 6435
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.320794186 ROSE (495320794186 shares)
+      End Time: epoch 6436
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.327634813 ROSE (495327634813 shares)
+      End Time: epoch 6437
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.334475536 ROSE (495334475536 shares)
+      End Time: epoch 6438
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.341316352 ROSE (495341316352 shares)
+      End Time: epoch 6439
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.348157264 ROSE (495348157264 shares)
+      End Time: epoch 6440
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.354998269 ROSE (495354998269 shares)
+      End Time: epoch 6441
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.36183937 ROSE (495361839370 shares)
+      End Time: epoch 6442
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.368680564 ROSE (495368680564 shares)
+      End Time: epoch 6443
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.375521854 ROSE (495375521854 shares)
+      End Time: epoch 6444
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.382363237 ROSE (495382363237 shares)
+      End Time: epoch 6445
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.389204715 ROSE (495389204715 shares)
+      End Time: epoch 6446
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.396046288 ROSE (495396046288 shares)
+      End Time: epoch 6447
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.402887955 ROSE (495402887955 shares)
+      End Time: epoch 6448
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   495.420744207 ROSE (495420744207 shares)
+      End Time: epoch 6449
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.832787526 ROSE (494832787526 shares)
+      End Time: epoch 6450
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.839613398 ROSE (494839613398 shares)
+      End Time: epoch 6451
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.846439364 ROSE (494846439364 shares)
+      End Time: epoch 6452
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.864280522 ROSE (494864280522 shares)
+      End Time: epoch 6453
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.860091579 ROSE (494860091579 shares)
+      End Time: epoch 6454
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.866917827 ROSE (494866917827 shares)
+      End Time: epoch 6455
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.884759724 ROSE (494884759724 shares)
+      End Time: epoch 6456
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.880570607 ROSE (494880570607 shares)
+      End Time: epoch 6457
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.887397138 ROSE (494887397138 shares)
+      End Time: epoch 6458
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.894223763 ROSE (494894223763 shares)
+      End Time: epoch 6459
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.912066644 ROSE (494912066644 shares)
+      End Time: epoch 6460
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.907877296 ROSE (494907877296 shares)
+      End Time: epoch 6461
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.914704204 ROSE (494914704204 shares)
+      End Time: epoch 6462
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.921531206 ROSE (494921531206 shares)
+      End Time: epoch 6463
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.939375071 ROSE (494939375071 shares)
+      End Time: epoch 6464
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.935185492 ROSE (494935185492 shares)
+      End Time: epoch 6465
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.942012777 ROSE (494942012777 shares)
+      End Time: epoch 6466
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.95985738 ROSE (494959857380 shares)
+      End Time: epoch 6467
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.955667628 ROSE (494955667628 shares)
+      End Time: epoch 6468
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.962495195 ROSE (494962495195 shares)
+      End Time: epoch 6469
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.969322856 ROSE (494969322856 shares)
+      End Time: epoch 6470
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.987168444 ROSE (494987168444 shares)
+      End Time: epoch 6471
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.982978461 ROSE (494982978461 shares)
+      End Time: epoch 6472
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.989806405 ROSE (494989806405 shares)
+      End Time: epoch 6473
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.423675404 ROSE (494423675404 shares)
+      End Time: epoch 6474
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.419469182 ROSE (494419469182 shares)
+      End Time: epoch 6475
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.437299935 ROSE (494437299935 shares)
+      End Time: epoch 6476
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.433093597 ROSE (494433093597 shares)
+      End Time: epoch 6477
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.450924842 ROSE (494450924842 shares)
+      End Time: epoch 6478
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.446718389 ROSE (494446718389 shares)
+      End Time: epoch 6479
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.464550125 ROSE (494464550125 shares)
+      End Time: epoch 6480
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.460343555 ROSE (494460343555 shares)
+      End Time: epoch 6481
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.478175783 ROSE (494478175783 shares)
+      End Time: epoch 6482
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.484988752 ROSE (494484988752 shares)
+      End Time: epoch 6483
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.480782009 ROSE (494480782009 shares)
+      End Time: epoch 6484
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.498614973 ROSE (494498614973 shares)
+      End Time: epoch 6485
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.494408114 ROSE (494494408114 shares)
+      End Time: epoch 6486
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.51224157 ROSE (494512241570 shares)
+      End Time: epoch 6487
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.508034595 ROSE (494508034595 shares)
+      End Time: epoch 6488
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.525868542 ROSE (494525868542 shares)
+      End Time: epoch 6489
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.521661451 ROSE (494521661451 shares)
+      End Time: epoch 6490
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.53949589 ROSE (494539495890 shares)
+      End Time: epoch 6491
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.535288683 ROSE (494535288683 shares)
+      End Time: epoch 6492
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.553123613 ROSE (494553123613 shares)
+      End Time: epoch 6493
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.54891629 ROSE (494548916290 shares)
+      End Time: epoch 6494
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.566751712 ROSE (494566751712 shares)
+      End Time: epoch 6495
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.562544273 ROSE (494562544273 shares)
+      End Time: epoch 6496
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.580380186 ROSE (494580380186 shares)
+      End Time: epoch 6497
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.289598372 ROSE (494289598372 shares)
+      End Time: epoch 6498
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.29640474 ROSE (494296404740 shares)
+      End Time: epoch 6499
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.303211201 ROSE (494303211201 shares)
+      End Time: epoch 6500
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.310017756 ROSE (494310017756 shares)
+      End Time: epoch 6501
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.327846945 ROSE (494327846945 shares)
+      End Time: epoch 6502
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.323631148 ROSE (494323631148 shares)
+      End Time: epoch 6503
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.330437984 ROSE (494330437984 shares)
+      End Time: epoch 6504
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.337244915 ROSE (494337244915 shares)
+      End Time: epoch 6505
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.344051938 ROSE (494344051938 shares)
+      End Time: epoch 6506
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.350859056 ROSE (494350859056 shares)
+      End Time: epoch 6507
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.357666267 ROSE (494357666267 shares)
+      End Time: epoch 6508
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.375497175 ROSE (494375497175 shares)
+      End Time: epoch 6509
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.371280971 ROSE (494371280971 shares)
+      End Time: epoch 6510
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.378088464 ROSE (494378088464 shares)
+      End Time: epoch 6511
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.38489605 ROSE (494384896050 shares)
+      End Time: epoch 6512
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.39170373 ROSE (494391703730 shares)
+      End Time: epoch 6513
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.398511504 ROSE (494398511504 shares)
+      End Time: epoch 6514
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.405319371 ROSE (494405319371 shares)
+      End Time: epoch 6515
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.423151998 ROSE (494423151998 shares)
+      End Time: epoch 6516
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.418935388 ROSE (494418935388 shares)
+      End Time: epoch 6517
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.425743536 ROSE (494425743536 shares)
+      End Time: epoch 6518
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.432551779 ROSE (494432551779 shares)
+      End Time: epoch 6519
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.439360115 ROSE (494439360115 shares)
+      End Time: epoch 6520
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.446168545 ROSE (494446168545 shares)
+      End Time: epoch 6521
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.879639121 ROSE (493879639121 shares)
+      End Time: epoch 6522
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.875406115 ROSE (493875406115 shares)
+      End Time: epoch 6523
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.882198779 ROSE (493882198779 shares)
+      End Time: epoch 6524
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.900017567 ROSE (493900017567 shares)
+      End Time: epoch 6525
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.895784386 ROSE (493895784386 shares)
+      End Time: epoch 6526
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.913603664 ROSE (493913603664 shares)
+      End Time: epoch 6527
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.909370367 ROSE (493909370367 shares)
+      End Time: epoch 6528
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.916163498 ROSE (493916163498 shares)
+      End Time: epoch 6529
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.933983511 ROSE (493933983511 shares)
+      End Time: epoch 6530
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.92975004 ROSE (493929750040 shares)
+      End Time: epoch 6531
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.936543451 ROSE (493936543451 shares)
+      End Time: epoch 6532
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.954364199 ROSE (493954364199 shares)
+      End Time: epoch 6533
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.950130553 ROSE (493950130553 shares)
+      End Time: epoch 6534
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.967951792 ROSE (493967951792 shares)
+      End Time: epoch 6535
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.963718029 ROSE (493963718029 shares)
+      End Time: epoch 6536
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.970511907 ROSE (493970511907 shares)
+      End Time: epoch 6537
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.988333881 ROSE (493988333881 shares)
+      End Time: epoch 6538
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.984099944 ROSE (493984099944 shares)
+      End Time: epoch 6539
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.990894103 ROSE (493990894103 shares)
+      End Time: epoch 6540
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.008716812 ROSE (494008716812 shares)
+      End Time: epoch 6541
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.0044827 ROSE (494004482700 shares)
+      End Time: epoch 6542
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.022305899 ROSE (494022305899 shares)
+      End Time: epoch 6543
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.018071671 ROSE (494018071671 shares)
+      End Time: epoch 6544
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   494.024866297 ROSE (494024866297 shares)
+      End Time: epoch 6545
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.744897407 ROSE (493744897407 shares)
+      End Time: epoch 6546
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.751684277 ROSE (493751684277 shares)
+      End Time: epoch 6547
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.758471239 ROSE (493758471239 shares)
+      End Time: epoch 6548
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.765258295 ROSE (493765258295 shares)
+      End Time: epoch 6549
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.772045444 ROSE (493772045444 shares)
+      End Time: epoch 6550
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.778832686 ROSE (493778832686 shares)
+      End Time: epoch 6551
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.785620022 ROSE (493785620022 shares)
+      End Time: epoch 6552
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.792407451 ROSE (493792407451 shares)
+      End Time: epoch 6553
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.799194973 ROSE (493799194973 shares)
+      End Time: epoch 6554
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.805982589 ROSE (493805982589 shares)
+      End Time: epoch 6555
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.812770298 ROSE (493812770298 shares)
+      End Time: epoch 6556
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.8195581 ROSE (493819558100 shares)
+      End Time: epoch 6557
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.826345996 ROSE (493826345996 shares)
+      End Time: epoch 6558
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.833133984 ROSE (493833133984 shares)
+      End Time: epoch 6559
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.839922066 ROSE (493839922066 shares)
+      End Time: epoch 6560
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.846710242 ROSE (493846710242 shares)
+      End Time: epoch 6561
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.853498511 ROSE (493853498511 shares)
+      End Time: epoch 6562
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.860286873 ROSE (493860286873 shares)
+      End Time: epoch 6563
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.867075328 ROSE (493867075328 shares)
+      End Time: epoch 6564
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.873863877 ROSE (493873863877 shares)
+      End Time: epoch 6565
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.880652519 ROSE (493880652519 shares)
+      End Time: epoch 6566
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.887441254 ROSE (493887441254 shares)
+      End Time: epoch 6567
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.894230083 ROSE (493894230083 shares)
+      End Time: epoch 6568
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.901019004 ROSE (493901019004 shares)
+      End Time: epoch 6569
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.620949798 ROSE (493620949798 shares)
+      End Time: epoch 6570
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.627730965 ROSE (493627730965 shares)
+      End Time: epoch 6571
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.623479068 ROSE (493623479068 shares)
+      End Time: epoch 6572
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.641293579 ROSE (493641293579 shares)
+      End Time: epoch 6573
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.648075026 ROSE (493648075026 shares)
+      End Time: epoch 6574
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.643822953 ROSE (493643822953 shares)
+      End Time: epoch 6575
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.661638199 ROSE (493661638199 shares)
+      End Time: epoch 6576
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.657386009 ROSE (493657386009 shares)
+      End Time: epoch 6577
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.675201744 ROSE (493675201744 shares)
+      End Time: epoch 6578
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   987.366496954 ROSE (987366496954 shares)
+      End Time: epoch 6580
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.695547761 ROSE (493695547761 shares)
+      End Time: epoch 6581
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.702329953 ROSE (493702329953 shares)
+      End Time: epoch 6582
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.709112238 ROSE (493709112238 shares)
+      End Time: epoch 6583
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.704859639 ROSE (493704859639 shares)
+      End Time: epoch 6584
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.722677088 ROSE (493722677088 shares)
+      End Time: epoch 6585
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.718424372 ROSE (493718424372 shares)
+      End Time: epoch 6586
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.73624231 ROSE (493736242310 shares)
+      End Time: epoch 6587
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.731989478 ROSE (493731989478 shares)
+      End Time: epoch 6588
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.749807905 ROSE (493749807905 shares)
+      End Time: epoch 6589
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.756590843 ROSE (493756590843 shares)
+      End Time: epoch 6590
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.752337835 ROSE (493752337835 shares)
+      End Time: epoch 6591
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.83637413 ROSE (493836374130 shares)
+      End Time: epoch 6592
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.710722166 ROSE (493710722166 shares)
+      End Time: epoch 6593
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.187744924 ROSE (493187744924 shares)
+      End Time: epoch 6594
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.216585439 ROSE (493216585439 shares)
+      End Time: epoch 6595
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   0.08829436 ROSE (88294360 shares)
+      End Time: epoch 6596
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   0.088295568 ROSE (88295568 shares)
+      End Time: epoch 6597
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   0.088296784 ROSE (88296784 shares)
+      End Time: epoch 6598
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   0.088297992 ROSE (88297992 shares)
+      End Time: epoch 6599
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   0.088299208 ROSE (88299208 shares)
+      End Time: epoch 6600
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   0.088300416 ROSE (88300416 shares)
+      End Time: epoch 6601
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   3452.251689181 ROSE (3452251689181 shares)
+      End Time: epoch 6602
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   1973.131022627 ROSE (1973131022627 shares)
+      End Time: epoch 6606
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   986.587066313 ROSE (986587066313 shares)
+      End Time: epoch 6608
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   986.61414121 ROSE (986614141210 shares)
+      End Time: epoch 6610
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   986.64121685 ROSE (986641216850 shares)
+      End Time: epoch 6612
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   986.668293233 ROSE (986668293233 shares)
+      End Time: epoch 6614
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   986.69537036 ROSE (986695370360 shares)
+      End Time: epoch 6616
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   986.722448229 ROSE (986722448229 shares)
+      End Time: epoch 6618
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   986.749526842 ROSE (986749526842 shares)
+      End Time: epoch 6620
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.370492631 ROSE (493370492631 shares)
+      End Time: epoch 6621
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.377262365 ROSE (493377262365 shares)
+      End Time: epoch 6622
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.395073077 ROSE (493395073077 shares)
+      End Time: epoch 6623
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   986.817226625 ROSE (986817226625 shares)
+      End Time: epoch 6625
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   986.844307838 ROSE (986844307838 shares)
+      End Time: epoch 6627
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.428924362 ROSE (493428924362 shares)
+      End Time: epoch 6628
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.435694897 ROSE (493435694897 shares)
+      End Time: epoch 6629
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.442465526 ROSE (493442465526 shares)
+      End Time: epoch 6630
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.449236247 ROSE (493449236247 shares)
+      End Time: epoch 6631
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.444964813 ROSE (493444964813 shares)
+      End Time: epoch 6632
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.462777969 ROSE (493462777969 shares)
+      End Time: epoch 6633
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.469548969 ROSE (493469548969 shares)
+      End Time: epoch 6634
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.476320062 ROSE (493476320062 shares)
+      End Time: epoch 6635
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.483091248 ROSE (493483091248 shares)
+      End Time: epoch 6636
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.489862527 ROSE (493489862527 shares)
+      End Time: epoch 6637
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.496633899 ROSE (493496633899 shares)
+      End Time: epoch 6638
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.492362054 ROSE (493492362054 shares)
+      End Time: epoch 6639
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.510176921 ROSE (493510176921 shares)
+      End Time: epoch 6640
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.516948572 ROSE (493516948572 shares)
+      End Time: epoch 6641
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.523720315 ROSE (493523720315 shares)
+      End Time: epoch 6642
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.530492151 ROSE (493530492151 shares)
+      End Time: epoch 6643
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.537264081 ROSE (493537264081 shares)
+      End Time: epoch 6644
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.544036103 ROSE (493544036103 shares)
+      End Time: epoch 6645
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.550808218 ROSE (493550808218 shares)
+      End Time: epoch 6646
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.546535905 ROSE (493546535905 shares)
+      End Time: epoch 6647
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.564352727 ROSE (493564352727 shares)
+      End Time: epoch 6648
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.571125121 ROSE (493571125121 shares)
+      End Time: epoch 6649
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.577897608 ROSE (493577897608 shares)
+      End Time: epoch 6650
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.584670188 ROSE (493584670188 shares)
+      End Time: epoch 6651
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.59144286 ROSE (493591442860 shares)
+      End Time: epoch 6652
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.598215626 ROSE (493598215626 shares)
+      End Time: epoch 6653
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.593942902 ROSE (493593942902 shares)
+      End Time: epoch 6654
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.611761436 ROSE (493611761436 shares)
+      End Time: epoch 6655
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.61853448 ROSE (493618534480 shares)
+      End Time: epoch 6656
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.625307618 ROSE (493625307618 shares)
+      End Time: epoch 6657
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.632080848 ROSE (493632080848 shares)
+      End Time: epoch 6658
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.638854171 ROSE (493638854171 shares)
+      End Time: epoch 6659
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.645627587 ROSE (493645627587 shares)
+      End Time: epoch 6660
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.641354453 ROSE (493641354453 shares)
+      End Time: epoch 6661
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.659174699 ROSE (493659174699 shares)
+      End Time: epoch 6662
+    - From:     oasis1qzm74el4utw4jssrl95ujq87g3ks3xfmjytvtaaa (self)
+      Amount:   493.665948394 ROSE (493665948394 shares)
+      End Time: epoch 6663
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 882
+        rate:  20.0%
+    (2) start: epoch 898
+        rate:  19.0%
+  Rate Bounds:
+    (1) start:        epoch 0
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.gnKHUxJQpgAKIjI28oY2zzMyy71bWN6kIekxzLdyqKI=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 5592
