@@ -1,0 +1,64 @@
+BBba0XfI4WSTroE+/YGcFthxbEC5jQJhWhl0jIBwke0=
+oasis1qq2kqzr4q942x44st97n66nmmyh7dhsuvsqyc22u
+Balance:
+  Total: 81880.515933927 ROSE
+  Available: 35.297598321 ROSE
+  Active Delegations from this Account:
+    Total: 36478.105494285 ROSE
+    Delegations:
+      - To:     oasis1qq2kqzr4q942x44st97n66nmmyh7dhsuvsqyc22u (self)
+        Amount: 36478.105494285 ROSE (32919444077340 shares)
+  Debonding Delegations from this Account:
+    Total: 45367.112841321 ROSE
+    Delegations:
+      - To:       oasis1qq2kqzr4q942x44st97n66nmmyh7dhsuvsqyc22u (self)
+        Amount:   45367.112841321 ROSE (45367112841321 shares)
+        End Time: epoch 6595
+
+Active Delegations to this Account:
+  Total: 40196998.622394859 ROSE (36275536525166975 shares)
+  Delegations:
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 29948705.688548819 ROSE (27027027000000000 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6738458.696815826 ROSE (6081081000000000 shares)
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 1800665.931324663 ROSE (1625000000000000 shares)
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 1662153.167376612 ROSE (1500000000000000 shares)
+    - From:   oasis1qq2kqzr4q942x44st97n66nmmyh7dhsuvsqyc22u (self)
+      Amount: 36478.105494285 ROSE (32919444077340 shares)
+    - From:   oasis1qr9uh9e73pd87umxwxx376lhjh4aapsacgq87awp
+      Amount: 10537.032834651 ROSE (9509081089635 shares)
+
+Debonding Delegations to this Account:
+  Total: 45367.112841321 ROSE (45367112841321 shares)
+  Delegations:
+    - From:     oasis1qq2kqzr4q942x44st97n66nmmyh7dhsuvsqyc22u (self)
+      Amount:   45367.112841321 ROSE (45367112841321 shares)
+      End Time: epoch 6595
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 224
+        rate:  14.0%
+    (2) start: epoch 660
+        rate:  19.0%
+  Rate Bounds:
+    (1) start:        epoch 0
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.Mm8/G4+5HipsdYBXLOI7aJShfxyUOSi9QNE2/FAv/Cw=
+      Staking Thresholds:
+        - Global: node-validator
+    - Name: registry.RegisterNode.qcG8V+6DqCC64iQTPajPicqnmqrhqRooXkBfZNqU9LA=
+      Staking Thresholds:
+        - Global: node-compute
+
+Nonce: 55
