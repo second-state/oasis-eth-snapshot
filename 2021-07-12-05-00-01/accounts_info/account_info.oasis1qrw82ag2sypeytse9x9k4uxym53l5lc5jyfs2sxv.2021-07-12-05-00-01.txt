@@ -1,0 +1,55 @@
+kN01v7L/wv6hvrd1ak83pgCedGDnpgbGJVkXezhUUJ8=
+oasis1qrw82ag2sypeytse9x9k4uxym53l5lc5jyfs2sxv
+Balance:
+  Total: 543909.18373348 ROSE
+  Available: 102.001818873 ROSE
+  Active Delegations from this Account:
+    Total: 543807.181914607 ROSE
+    Delegations:
+      - To:     oasis1qrw82ag2sypeytse9x9k4uxym53l5lc5jyfs2sxv (self)
+        Amount: 543807.181914607 ROSE (494714697280406 shares)
+
+Active Delegations to this Account:
+  Total: 34894584.056374227 ROSE (31744456789622882 shares)
+  Delegations:
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 21963643.87506398 ROSE (19980864159556338 shares)
+    - From:   oasis1qrn9c0k92vk5leh62m942nqeq2kl9tmkaqk6lzz4
+      Amount: 10990326.796645715 ROSE (9998169158179829 shares)
+    - From:   oasis1qrw82ag2sypeytse9x9k4uxym53l5lc5jyfs2sxv (self)
+      Amount: 543807.181914607 ROSE (494714697280406 shares)
+    - From:   oasis1qr8cga05pn0tazgxhrgpyezaegmd65ausv3edkkp
+      Amount: 349174.928928431 ROSE (317652975186086 shares)
+    - From:   oasis1qrgkqgd9d537nkhc9mu0ezt0l3qnrfmwt5kq08tu
+      Amount: 349174.928928431 ROSE (317652975186086 shares)
+    - From:   oasis1qrrr27ak7q0x4fpufge2wa7z0u2yrwk5hcgz5dwa
+      Amount: 349174.928928431 ROSE (317652975186086 shares)
+    - From:   oasis1qzfzxe4ejtemayxgk89rw3ag2l7rn2ut3yr0lg79
+      Amount: 349174.928928431 ROSE (317652975186086 shares)
+    - From:   oasis1qzdqpzsvqn2qugheq2x9ph3qj2ew3aq0wytvp6gj
+      Amount: 106.487036196 ROSE (96873861965 shares)
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 1513
+        rate:  6.1%
+    (2) start: epoch 1879
+        rate:  16.1%
+  Rate Bounds:
+    (1) start:        epoch 1513
+        minimum rate: 0.0%
+        maximum rate: 25.0%
+    (2) start:        epoch 1879
+        minimum rate: 0.0%
+        maximum rate: 25.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.c7ycVhiEqHbQfOdeeaj965nuxN8Hsb4BxMPbaPIipRw=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 15
