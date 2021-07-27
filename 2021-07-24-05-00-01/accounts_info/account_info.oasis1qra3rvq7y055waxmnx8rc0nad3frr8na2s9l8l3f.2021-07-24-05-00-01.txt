@@ -1,0 +1,57 @@
+4g2p36WoOzdHyXq6tOjFb3nv6y90/zyQcb1eQcy5doo=
+oasis1qra3rvq7y055waxmnx8rc0nad3frr8na2s9l8l3f
+Balance:
+  Total: 834095.174566323 ROSE
+  Available: 100.000925532 ROSE
+  Active Delegations from this Account:
+    Total: 833995.173640791 ROSE
+    Delegations:
+      - To:     oasis1qra3rvq7y055waxmnx8rc0nad3frr8na2s9l8l3f (self)
+        Amount: 833995.173640791 ROSE (742719323126598 shares)
+
+Active Delegations to this Account:
+  Total: 38931167.007196737 ROSE (34670380503385990 shares)
+  Delegations:
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 30348490.168495719 ROSE (27027027000000000 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6828410.203694476 ROSE (6081081000000000 shares)
+    - From:   oasis1qra3rvq7y055waxmnx8rc0nad3frr8na2s9l8l3f (self)
+      Amount: 833995.173640791 ROSE (742719323126598 shares)
+    - From:   oasis1qqgj8nxpvxk83pze8y7j4sjpy3lhfhuyeu99ql8z
+      Amount: 782281.520348687 ROSE (696665424035261 shares)
+    - From:   oasis1qp35pk6w8m37a6cs833us5u4xy3ge4j9uyeclx2t
+      Amount: 105547.410977663 ROSE (93995869660583 shares)
+    - From:   oasis1qqe3qz9nyhqfyfvhtasffjkxl9lrnnrt3gsu5w9e
+      Amount: 32441.470620501 ROSE (28890943091798 shares)
+    - From:   oasis1qr2z8yfjnzzhxmdd2fsq567xraqet7v9sq86ahaw
+      Amount: 1.059418896 ROSE (943471750 shares)
+
+Debonding Delegations to this Account:
+  Total: 33346.415592984 ROSE (33346415592984 shares)
+  Delegations:
+    - From:     oasis1qr8qzraywgyfv8kc6lnc76jkql0qpgkmdusj2znt
+      Amount:   33346.415592984 ROSE (33346415592984 shares)
+      End Time: epoch 7204
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 52
+        rate:  12.5%
+    (2) start: epoch 104
+        rate:  15.0%
+  Rate Bounds:
+    (1) start:        epoch 0
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.axFry86SMrw5X4ITO+YHLLrVqW6N1vcaTgrTOJfQPCc=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 13

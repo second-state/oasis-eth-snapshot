@@ -1,0 +1,57 @@
+LaKJUKndAqH57DVExspTjdRTRNGJOSqArzM0pm8REZw=
+oasis1qrmexg6kh67xvnp7k42sx482nja5760stcrcdkhm
+Balance:
+  Total: 355766.030302488 ROSE
+  Available: 234336.787926352 ROSE
+  Active Delegations from this Account:
+    Total: 121429.242376136 ROSE
+    Delegations:
+      - To:     oasis1qrmexg6kh67xvnp7k42sx482nja5760stcrcdkhm (self)
+        Amount: 121429.242376136 ROSE (108305547076857 shares)
+
+Active Delegations to this Account:
+  Total: 46786949.519230872 ROSE (41730361357615100 shares)
+  Delegations:
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 30301969.759318589 ROSE (27027027000000000 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6817943.111758716 ROSE (6081081000000000 shares)
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 4955584.139394546 ROSE (4420000000000000 shares)
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 4574385.359441119 ROSE (4080000000000000 shares)
+    - From:   oasis1qrmexg6kh67xvnp7k42sx482nja5760stcrcdkhm (self)
+      Amount: 121429.242376136 ROSE (108305547076857 shares)
+    - From:   oasis1qqg6ycecprr90ey86dgmccjahuwmrd48w5f08ls2
+      Amount: 10900.505088109 ROSE (9722412360318 shares)
+    - From:   oasis1qqqem95fth08qvzuackrvx3qsh62tmqvjqcw9xad
+      Amount: 2367.660581164 ROSE (2111771180627 shares)
+    - From:   oasis1qzz0xjcnh46nywynayej4ktsfne0g5u48vzjee0p
+      Amount: 2367.660581164 ROSE (2111771180627 shares)
+    - From:   oasis1qza6mdk3mlqhyueyfg5qxx35yn2xmcx55g8jx5ts
+      Amount: 2.080691325 ROSE (1855816671 shares)
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 26
+        rate:  10.0%
+    (2) start: epoch 418
+        rate:  17.0%
+  Rate Bounds:
+    (1) start:        epoch 0
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterNode.jZ2/EOnpmPCxCfd5wrrLINNdZSPWyhIx9UqJgZ8sHYk=
+      Staking Thresholds:
+        - Global: node-validator
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.Ud2t6iFp+jWPWWcvU2Kp39YSvLHB7km5IEc1QBxhZ4k=
+      Staking Thresholds:
+        - Global: node-compute
+
+Nonce: 333
