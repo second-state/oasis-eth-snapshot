@@ -1,0 +1,55 @@
+T/PgHnTLIQmkrPpgdAcPTHwKVo0/0EcYmVx0EtMpyhI=
+oasis1qqxg9s39jfqwhwnnv3nlpfzvdv9hqw5n2gdvuj3r
+Balance:
+  Total: 902018.205865897 ROSE
+  Available: 100.001021569 ROSE
+  Active Delegations from this Account:
+    Total: 901918.204844328 ROSE
+    Delegations:
+      - To:     oasis1qqxg9s39jfqwhwnnv3nlpfzvdv9hqw5n2gdvuj3r (self)
+        Amount: 901918.204844328 ROSE (799602587288140 shares)
+
+Active Delegations to this Account:
+  Total: 44333964.255267554 ROSE (39304620233683451 shares)
+  Delegations:
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 30485353.676494733 ROSE (27027027000000000 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6859204.492614458 ROSE (6081081000000000 shares)
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 3079325.577942058 ROSE (2730000000000000 shares)
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 2842454.379638823 ROSE (2520000000000000 shares)
+    - From:   oasis1qqxg9s39jfqwhwnnv3nlpfzvdv9hqw5n2gdvuj3r (self)
+      Amount: 901918.204844328 ROSE (799602587288140 shares)
+    - From:   oasis1qqpelwwqgp8agk448w5g7ypw4pjue70kpqr6kvgj
+      Amount: 107826.651747182 ROSE (95594555307314 shares)
+    - From:   oasis1qztn998azhwkr8ttnc5406xwf93lmdjm0g6ld9cv
+      Amount: 53766.70273975 ROSE (47667287775921 shares)
+    - From:   oasis1qqh7wrtn5vtw2nukp0ffph74wtzz3qt0pg8sp8g2
+      Amount: 4114.569246218 ROSE (3647803312076 shares)
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 0
+        rate:  5.0%
+    (2) start: epoch 3051
+        rate:  20.0%
+  Rate Bounds:
+    (1) start:        epoch 0
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+    (2) start:        epoch 3051
+        minimum rate: 0.0%
+        maximum rate: 25.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.brO55xwlMRPJhHahZeZuZTENDKHoxKFYAFNuZ0t+cFc=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 1

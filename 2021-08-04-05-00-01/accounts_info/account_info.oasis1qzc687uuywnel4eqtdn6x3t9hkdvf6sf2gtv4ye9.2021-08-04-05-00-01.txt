@@ -1,0 +1,56 @@
+tvPlmGHv5aokL9MMBqNAkSOygldJIlRTmSIvCwuh0rU=
+oasis1qzc687uuywnel4eqtdn6x3t9hkdvf6sf2gtv4ye9
+Balance:
+  Total: 2039548.753158675 ROSE
+  Available: 100.001072865 ROSE
+  Active Delegations from this Account:
+    Total: 2039448.75208581 ROSE
+    Delegations:
+      - To:     oasis1qzc687uuywnel4eqtdn6x3t9hkdvf6sf2gtv4ye9 (self)
+        Amount: 2039448.75208581 ROSE (1814187142369786 shares)
+
+Active Delegations to this Account:
+  Total: 49938064.42402138 ROSE (44422295142369786 shares)
+  Delegations:
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 30382883.441527743 ROSE (27027027000000000 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6836148.69003124 ROSE (6081081000000000 shares)
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 5553383.440995824 ROSE (4940000000000000 shares)
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 5126200.09938076 ROSE (4560000000000000 shares)
+    - From:   oasis1qzc687uuywnel4eqtdn6x3t9hkdvf6sf2gtv4ye9 (self)
+      Amount: 2039448.75208581 ROSE (1814187142369786 shares)
+
+Debonding Delegations to this Account:
+  Total: 10897.605683828 ROSE (10897605683828 shares)
+  Delegations:
+    - From:     oasis1qqg6ycecprr90ey86dgmccjahuwmrd48w5f08ls2
+      Amount:   10897.605683828 ROSE (10897605683828 shares)
+      End Time: epoch 7526
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 40
+        rate:  15.0%
+    (2) start: epoch 3719
+        rate:  19.0%
+  Rate Bounds:
+    (1) start:        epoch 340
+        minimum rate: 0.0%
+        maximum rate: 25.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.+hDdxN13lBPeBJtH7r4xUWOgeTFntyFT98PpiEzoUT0=
+      Staking Thresholds:
+        - Global: node-compute
+    - Name: registry.RegisterNode.jezrY6n61D/wD39nZKC+LpYfOZt5AN8gZ5SWu9vypD8=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 7

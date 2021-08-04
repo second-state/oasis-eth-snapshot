@@ -1,0 +1,51 @@
+DUPCXhDoLZfOvZXBcK/dEgXdtuDmKeSKaETPXb67TFk=
+oasis1qrt07xfajnree25q27dxnwvmxs7drj4g3sknwmh4
+Balance:
+  Total: 211.386041557 ROSE
+  Available: 9.900004528 ROSE
+  Active Delegations from this Account:
+    Total: 201.486037029 ROSE
+    Delegations:
+      - To:     oasis1qrt07xfajnree25q27dxnwvmxs7drj4g3sknwmh4 (self)
+        Amount: 201.486037029 ROSE (200000000000 shares)
+
+Active Delegations to this Account:
+  Total: 544771.516294603 ROSE (540753616802606 shares)
+  Delegations:
+    - From:   oasis1qrplmtqk2qptt4uen252y8vsgv84mskdfsx89m0j
+      Amount: 428355.8638802 ROSE (425196574606810 shares)
+    - From:   oasis1qpg75pyrdg59wr4z56advtqnp66knhkwuggnwj5p
+      Amount: 53347.182980356 ROSE (52953726984613 shares)
+    - From:   oasis1qqng078tu7n7awyr290pvjwnsf245zfjfykckhad
+      Amount: 17999.246743129 ROSE (17866495374560 shares)
+    - From:   oasis1qzwhrjeudv629m508cqduumh86087e23fcgh9k3t
+      Amount: 15438.2551184 ROSE (15324392048210 shares)
+    - From:   oasis1qrkdhztwluyfvagutn7gd9wzhlfu96c2yqkauxr6
+      Amount: 11484.055540981 ROSE (11399356213752 shares)
+    - From:   oasis1qqcq52ueksxy5lm7cm496lh3wzgk2k5kxuwpwfnx
+      Amount: 5916.91689921 ROSE (5873277360996 shares)
+    - From:   oasis1qrsyvzasc62dz85uwt5uxcqlqyyfhw48duqw47cw
+      Amount: 5786.685563148 ROSE (5744006531134 shares)
+    - From:   oasis1qz9kxpct787hq9fxk9jvrl7jxzwn3yzvavjlg279
+      Amount: 2515.638447707 ROSE (2497084646455 shares)
+    - From:   oasis1qrj9hxvzw5p7nk3wqrh0ju36d9er6cfdluw8zv8h
+      Amount: 2264.606927358 ROSE (2247904580134 shares)
+    - From:   oasis1qrwhx3zxdfkcs7px52qyd73zrwlck7q87vxhmg2x
+      Amount: 904.361432596 ROSE (897691419147 shares)
+    - From:   oasis1qpr5zne3rzkqtncen3vddm75ru3mqszsau96x0hl
+      Amount: 357.788705689 ROSE (355149876353 shares)
+    - From:   oasis1qrt07xfajnree25q27dxnwvmxs7drj4g3sknwmh4 (self)
+      Amount: 201.486037029 ROSE (200000000000 shares)
+    - From:   oasis1qrtl6jw5ux9ggeed34dly660yrrt467caykrd8qr
+      Amount: 199.428018795 ROSE (197957160442 shares)
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.6cGKK8dxk1xLfYEczzW3h7CZQJJcBtAciyojWEePU3c=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 4

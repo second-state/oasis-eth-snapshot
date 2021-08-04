@@ -1,0 +1,53 @@
+7DwKCCQV9THNLyTELQTBCWNPIHZJdAq7qGk1D7vx2zo=
+oasis1qp0j5v5mkxk3eg4kxfdsk8tj6p22g4685qk76fw6
+Balance:
+  Total: 2784.803642457 ROSE
+  Available: 51.900048404 ROSE
+  Active Delegations from this Account:
+    Total: 2732.903594053 ROSE
+    Delegations:
+      - To:     oasis1qp0j5v5mkxk3eg4kxfdsk8tj6p22g4685qk76fw6 (self)
+        Amount: 2732.903594053 ROSE (2632212062527 shares)
+
+Active Delegations to this Account:
+  Total: 1176932.265323522 ROSE (1133569187110333 shares)
+  Delegations:
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 776798.74553285 ROSE (748178249901193 shares)
+    - From:   oasis1qqkgm04sr7ukkj7ejuepc774wecad3r535x5ku8m
+      Amount: 248891.141207584 ROSE (239720956702712 shares)
+    - From:   oasis1qzs6pktxajn23mrfa6yn44d24el6fulv5yxgp00t
+      Amount: 72446.626097169 ROSE (69777391166415 shares)
+    - From:   oasis1qzq5lcm3jv4zrmty6zhy77tfyzs99k6pyul2s2yv
+      Amount: 31765.598197895 ROSE (30595221482320 shares)
+    - From:   oasis1qpk366qvtjrfrthjp3xuej5mhvvtnkr8fy02hm2s
+      Amount: 22889.389688004 ROSE (22046049400261 shares)
+    - From:   oasis1qr9tujkc2su4lsjdm46yf2jrs7cq85k4vg5vda6j
+      Amount: 20308.182614376 ROSE (19559944727608 shares)
+    - From:   oasis1qp0j5v5mkxk3eg4kxfdsk8tj6p22g4685qk76fw6 (self)
+      Amount: 2732.903594053 ROSE (2632212062527 shares)
+    - From:   oasis1qq7vk7g5mlmn4wv2j302wh2frckcz7nkfg0s6ad4
+      Amount: 1099.678391588 ROSE (1059161667297 shares)
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 5369
+        rate:  5.0%
+  Rate Bounds:
+    (1) start:        epoch 5369
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.mRRMUc8eU8zbqUWAiHDiBeRo6wqVImqQs91TxkGjuuU=
+      Staking Thresholds:
+        - Global: node-validator
+    - Name: registry.RegisterNode.pj4iWUTe0l9kGdyc5uFou29xD7dE/sfWEC5+HAqWXCg=
+      Staking Thresholds:
+        - Global: node-compute
+
+Nonce: 6
