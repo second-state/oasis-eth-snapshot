@@ -1,0 +1,62 @@
+HPeLbzc88IoYEP0TC4nqSxfxdPCPjduLeJqFvmxFye8=
+oasis1qr3w66akc8ud9a4zsgyjw2muvcfjgfszn5ycgc0a
+Balance:
+  Total: 4373.746376364 ROSE
+  Available: 0.000097065 ROSE
+  Active Delegations from this Account:
+    Total: 4373.746279299 ROSE
+    Delegations:
+      - To:     oasis1qr3w66akc8ud9a4zsgyjw2muvcfjgfszn5ycgc0a (self)
+        Amount: 4373.746279299 ROSE (4143463495521 shares)
+
+Active Delegations to this Account:
+  Total: 498816.68162996 ROSE (472553408292741 shares)
+  Delegations:
+    - From:   oasis1qph468k4uykymrttex75sn37wkny2w9wlcnd8wwg
+      Amount: 141596.691698773 ROSE (134141462644326 shares)
+    - From:   oasis1qqjak3gnnnxkc8rm9e6vu3rwt3hm3shq0y47c6zr
+      Amount: 105557.736958738 ROSE (100000000418038 shares)
+    - From:   oasis1qzlelh73mlqfpma6qwt8rwccwvl7gvj2hq29l7dz
+      Amount: 104576.150200604 ROSE (99070095334320 shares)
+    - From:   oasis1qqpelwwqgp8agk448w5g7ypw4pjue70kpqr6kvgj
+      Amount: 52252.94114736 ROSE (49501763557344 shares)
+    - From:   oasis1qpyl5zdpwt63ddlfcjlajmc8qvwxtlxk5vxcyekn
+      Amount: 51698.922242161 ROSE (48976914386192 shares)
+    - From:   oasis1qphcc36fvl73yvkdlh9lydt3s7w2xceuaqxe4rt6
+      Amount: 34653.615826003 ROSE (32829063003136 shares)
+    - From:   oasis1qr3w66akc8ud9a4zsgyjw2muvcfjgfszn5ycgc0a (self)
+      Amount: 4373.746279299 ROSE (4143463495521 shares)
+    - From:   oasis1qrvjvqpxvefqvxz560dyz2c3dfwzg8j5achjyyv9
+      Amount: 1796.598147167 ROSE (1702005183552 shares)
+    - From:   oasis1qq4qu0gcura9js7t3emt607w55jmnh329yuate4f
+      Amount: 1261.397249513 ROSE (1194983230154 shares)
+    - From:   oasis1qptdxehmgj587ra0utsnk4nstw2fte907ufqwztu
+      Amount: 1046.609478703 ROSE (991504283090 shares)
+    - From:   oasis1qr2g24c4p5x5u2sqfwlrhn8lmhcrff2f8urfyn3s
+      Amount: 1.046609479 ROSE (991504284 shares)
+    - From:   oasis1qzc0mmj80rym2pkmnngx028wrfquywd9sqasp4jd
+      Amount: 0.944338114 ROSE (894617624 shares)
+    - From:   oasis1qzcfw8n5cef0vh2eugd2mlxgsxxyd58zruxhnter
+      Amount: 0.281454039 ROSE (266635160 shares)
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 2310
+        rate:  5.0%
+    (2) start: epoch 4371
+        rate:  20.0%
+  Rate Bounds:
+    (1) start:        epoch 2310
+        minimum rate: 0.0%
+        maximum rate: 25.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.wqd9Yy3n7TWKfYRn2bI9Hd6/623CfC7NCUoRbQ5UkR8=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 4

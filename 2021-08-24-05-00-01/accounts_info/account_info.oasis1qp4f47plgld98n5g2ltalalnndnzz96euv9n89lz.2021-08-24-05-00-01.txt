@@ -1,0 +1,58 @@
+bTok0el8GbmUzTAAgcQ78uww/TsgeWwXpM3N2S49qBQ=
+oasis1qp4f47plgld98n5g2ltalalnndnzz96euv9n89lz
+Balance:
+  Total: 290955.830384304 ROSE
+  Available: 185404.803479065 ROSE
+  Active Delegations from this Account:
+    Total: 105551.026905239 ROSE
+    Delegations:
+      - To:     oasis1qp4f47plgld98n5g2ltalalnndnzz96euv9n89lz (self)
+        Amount: 105551.026905239 ROSE (93636904789158 shares)
+
+Active Delegations to this Account:
+  Total: 45790634.264695815 ROSE (40621994750726769 shares)
+  Delegations:
+    - From:   oasis1qprtzrg97jk0wxnqkhxwyzy5qys47r7alvfl3fcg
+      Amount: 29247241.989668707 ROSE (25945945708237508 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6854822.312732656 ROSE (6081081000000000 shares)
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 4982389.58209541 ROSE (4420000000000000 shares)
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 4599128.845011148 ROSE (4080000000000000 shares)
+    - From:   oasis1qp4f47plgld98n5g2ltalalnndnzz96euv9n89lz (self)
+      Amount: 105551.026905239 ROSE (93636904789158 shares)
+    - From:   oasis1qpkt9hhqjdq6muq5fmj5s57ah20pgaeskqtnhlx6
+      Amount: 1500.508282653 ROSE (1331137700103 shares)
+
+Debonding Delegations to this Account:
+  Total: 403.824223853 ROSE (403824223853 shares)
+  Delegations:
+    - From:     oasis1qpkt9hhqjdq6muq5fmj5s57ah20pgaeskqtnhlx6
+      Amount:   403.824223853 ROSE (403824223853 shares)
+      End Time: epoch 8171
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 419
+        rate:  19.5%
+    (2) start: epoch 2026
+        rate:  20.0%
+  Rate Bounds:
+    (1) start:        epoch 0
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterNode.ZvVkoqxiyRcamT6XBz/DKpsvYICXr3GGqYCLlrDgnlk=
+      Staking Thresholds:
+        - Global: node-compute
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.AVQbWvlbKOHi3z8uibbOVl3xsCJsw2YtWG5XXdbhhpI=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 418

@@ -1,0 +1,47 @@
+g9UqzvW6JvfKrflRKbCPBpm41rH/O+4apCK+KkD2tG4=
+oasis1qzk6qlmgnq40cq2n3jfkw3307feqngt4gvksfml6
+Balance:
+  Total: 254.460643617 ROSE
+  Available: 51.900023816 ROSE
+  Active Delegations from this Account:
+    Total: 202.560619801 ROSE
+    Delegations:
+      - To:     oasis1qzk6qlmgnq40cq2n3jfkw3307feqngt4gvksfml6 (self)
+        Amount: 202.560619801 ROSE (200000000000 shares)
+
+Active Delegations to this Account:
+  Total: 403591.946026264 ROSE (398490038608308 shares)
+  Delegations:
+    - From:   oasis1qq2uknnc47zrwhehnky02xhsf7xn7r975v9asmkx
+      Amount: 178599.536948825 ROSE (176341815229217 shares)
+    - From:   oasis1qq28m24ccy2yt0lyar2nuxzhcjh25rkze57t0js7
+      Amount: 152620.631478281 ROSE (150691315644458 shares)
+    - From:   oasis1qrnmt4ezh4kpq48kkltzqy3g5xrk7z24cg9y9rwl
+      Amount: 30364.256320724 ROSE (29980414110570 shares)
+    - From:   oasis1qqu9505ay0jmfnwakwn8ldtkl0aa8f2yg5gplvf9
+      Amount: 30222.905554421 ROSE (29840850194897 shares)
+    - From:   oasis1qrnpgya3p24ta7fn456t8muetty9630045qkfcfl
+      Amount: 4000.406577217 ROSE (3949836430335 shares)
+    - From:   oasis1qq3xh7pm2rh4aev3r322gs0ntgm4qqx4xqu8k8d7
+      Amount: 3584.568580383 ROSE (3539255146331 shares)
+    - From:   oasis1qqp9jg5v9dz352c3y05nrtqa239n4sq9msvl0urg
+      Amount: 3221.200243073 ROSE (3180480239672 shares)
+    - From:   oasis1qq0m2n7pmgdj5a08xgackv4jpautzga2hqegqyy2
+      Amount: 284.802037609 ROSE (281201783336 shares)
+    - From:   oasis1qpflf22nutd70tr6qcl3kd7jha23n0nqkq3p2jhs
+      Amount: 252.767937468 ROSE (249572634322 shares)
+    - From:   oasis1qqkmx7dyd0h7u8dd5hwrds6ts75pftj3mvfq54ar
+      Amount: 238.309728456 ROSE (235297195170 shares)
+    - From:   oasis1qzk6qlmgnq40cq2n3jfkw3307feqngt4gvksfml6 (self)
+      Amount: 202.560619801 ROSE (200000000000 shares)
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterNode.GYJsEu4Yp+CGEQVjy4owQAG6l6xEvGzcNM1xBHaEv6U=
+      Staking Thresholds:
+        - Global: node-validator
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+
+Nonce: 3

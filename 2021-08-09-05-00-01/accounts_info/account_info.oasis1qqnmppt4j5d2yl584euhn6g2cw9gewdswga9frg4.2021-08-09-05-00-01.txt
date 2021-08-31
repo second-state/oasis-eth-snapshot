@@ -1,0 +1,53 @@
+J3ou5m1abrwcbYwTksSj1Hj21QoDjyrSkjB40rEKV4E=
+oasis1qqnmppt4j5d2yl584euhn6g2cw9gewdswga9frg4
+Balance:
+  Total: 261321.808824228 ROSE
+  Available: 3970.614991282 ROSE
+  Active Delegations from this Account:
+    Total: 257351.193832946 ROSE
+    Delegations:
+      - To:     oasis1qqnmppt4j5d2yl584euhn6g2cw9gewdswga9frg4 (self)
+        Amount: 257351.193832946 ROSE (228351601570986 shares)
+
+Active Delegations to this Account:
+  Total: 53669143.91969249 ROSE (47621442070950178 shares)
+  Delegations:
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 30459333.835865776 ROSE (27027027000000000 shares)
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 8351035.566130355 ROSE (7410000000000000 shares)
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 7708648.214889558 ROSE (6840000000000000 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6853350.028545148 ROSE (6081081000000000 shares)
+    - From:   oasis1qqnmppt4j5d2yl584euhn6g2cw9gewdswga9frg4 (self)
+      Amount: 257351.193832946 ROSE (228351601570986 shares)
+    - From:   oasis1qpwmq2ht8a43fdngar7aefj6anlz6k62hchkhtsa
+      Amount: 38422.938970709 ROSE (34093254126193 shares)
+    - From:   oasis1qq4qu0gcura9js7t3emt607w55jmnh329yuate4f
+      Amount: 1002.141457994 ROSE (889215252999 shares)
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 283
+        rate:  15.0%
+    (2) start: epoch 3857
+        rate:  18.0%
+  Rate Bounds:
+    (1) start:        epoch 0
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterNode.dMaOtmpPbdB7ukYfXdo+ssTTCjX2Qspmi1YJIg5Hcr0=
+      Staking Thresholds:
+        - Global: node-validator
+    - Name: registry.RegisterNode.u028OpgziF9Y/ehGwEvup6rMAtdPsRLgweAphaZ3TE0=
+      Staking Thresholds:
+        - Global: node-compute
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+
+Nonce: 13

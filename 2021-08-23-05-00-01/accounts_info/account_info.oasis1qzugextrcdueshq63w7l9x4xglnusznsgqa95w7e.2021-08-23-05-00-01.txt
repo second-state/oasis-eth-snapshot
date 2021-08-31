@@ -1,0 +1,75 @@
+T5k7PtOR01oZrdnZveDpO9AFpMUhEREZk7WSSfm8Gtg=
+oasis1qzugextrcdueshq63w7l9x4xglnusznsgqa95w7e
+Balance:
+  Total: 278917.967584275 ROSE
+  Available: 165253.11008738 ROSE
+  Active Delegations from this Account:
+    Total: 74315.784695189 ROSE
+    Delegations:
+      - To:     oasis1qzugextrcdueshq63w7l9x4xglnusznsgqa95w7e (self)
+        Amount: 74315.784695189 ROSE (65868407597447 shares)
+  Debonding Delegations from this Account:
+    Total: 39349.072801706 ROSE
+    Delegations:
+      - To:       oasis1qzugextrcdueshq63w7l9x4xglnusznsgqa95w7e (self)
+        Amount:   39349.072801706 ROSE (39349072801706 shares)
+        End Time: epoch 7922
+
+Active Delegations to this Account:
+  Total: 46887966.839718679 ROSE (41558273573798317 shares)
+  Delegations:
+    - From:   oasis1qprtzrg97jk0wxnqkhxwyzy5qys47r7alvfl3fcg
+      Amount: 29273418.855851607 ROSE (25945947995794274 shares)
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 7523520.995630806 ROSE (6668332300341571 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6860956.910813829 ROSE (6081081000000000 shares)
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 3113959.684774165 ROSE (2760000000000000 shares)
+    - From:   oasis1qzugextrcdueshq63w7l9x4xglnusznsgqa95w7e (self)
+      Amount: 74315.784695189 ROSE (65868407597447 shares)
+    - From:   oasis1qr3mw00a6p3t72s2qnsc6k07mrxfaxt8x5qas0lh
+      Amount: 24985.324611701 ROSE (22145275761108 shares)
+    - From:   oasis1qqfsvuzp9wqumhh65ddlqszy2p03jg0v8uw643jn
+      Amount: 16612.550701328 ROSE (14724224003238 shares)
+    - From:   oasis1qztd06lesj7rt8pf3jznysnu5ajlav052qklzuc9
+      Amount: 109.564242805 ROSE (97110220027 shares)
+    - From:   oasis1qpdhmk0s0ps6g4ltyzdfeszx09ce2srs0sgmcyts
+      Amount: 86.121252524 ROSE (76331963490 shares)
+    - From:   oasis1qpq9evp9al6jtkmva5u87g702cn8yaj98g53pl9s
+      Amount: 1.047144719 ROSE (928117162 shares)
+
+Debonding Delegations to this Account:
+  Total: 30475223.532950954 ROSE (30475223532950954 shares)
+  Delegations:
+    - From:     oasis1qzugextrcdueshq63w7l9x4xglnusznsgqa95w7e (self)
+      Amount:   39349.072801706 ROSE (39349072801706 shares)
+      End Time: epoch 7922
+    - From:     oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount:   30435874.460149248 ROSE (30435874460149248 shares)
+      End Time: epoch 8044
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 418
+        rate:  20.0%
+    (2) start: epoch 454
+        rate:  19.0%
+  Rate Bounds:
+    (1) start:        epoch 0
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterNode.V/+vzOGcNvCRh0JCb0VX8EMsPkpn5H0g6E8Tna6lEBU=
+      Staking Thresholds:
+        - Global: node-compute
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+    - Name: registry.RegisterNode.4rUqFOE27urnaltMm2XqyuxcghXs4xRep3AV3mXSTt4=
+      Staking Thresholds:
+        - Global: node-validator
+
+Nonce: 423

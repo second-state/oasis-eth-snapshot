@@ -1,0 +1,52 @@
+RZowTXmfT+b6H6Vuz97VECIy2cq8tytTilv8AxbtvO8=
+oasis1qram2p9w3yxm4px5nth8n7ugggk5rr6ay5d284at
+Balance:
+  Total: 1177750.571536383 ROSE
+  Available: 668.164843036 ROSE
+  Active Delegations from this Account:
+    Total: 1177082.406693347 ROSE
+    Delegations:
+      - To:     oasis1qram2p9w3yxm4px5nth8n7ugggk5rr6ay5d284at (self)
+        Amount: 1177082.406693347 ROSE (1037185416685112 shares)
+
+Active Delegations to this Account:
+  Total: 53672762.182169203 ROSE (47293720381853295 shares)
+  Delegations:
+    - From:   oasis1qqs6ylpfurhf6gc9mw232fkmrt3d0673lyzc5xf2
+      Amount: 30672469.430395461 ROSE (27027027000000000 shares)
+    - From:   oasis1qrad7s7nqm4gvyzr8yt2rdk0ref489rn3vn400d6
+      Amount: 9746845.760886136 ROSE (8588426965168183 shares)
+    - From:   oasis1qpdks9ccwxa27hyccd78d58vhpl9wyddmy4xvhvk
+      Amount: 6901305.536722876 ROSE (6081081000000000 shares)
+    - From:   oasis1qp7hpak0wuymn3pqtwf2cpaxsm25v6ydhuzkxupe
+      Amount: 5175059.047471381 ROSE (4560000000000000 shares)
+    - From:   oasis1qram2p9w3yxm4px5nth8n7ugggk5rr6ay5d284at (self)
+      Amount: 1177082.406693347 ROSE (1037185416685112 shares)
+
+Commission Schedule:
+  Rates:
+    (1) start: epoch 2300
+        rate:  15.0%
+    (2) start: epoch 3400
+        rate:  19.0%
+  Rate Bounds:
+    (1) start:        epoch 2300
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+    (2) start:        epoch 3400
+        minimum rate: 0.0%
+        maximum rate: 20.0%
+
+Stake Accumulator:
+  Claims:
+    - Name: registry.RegisterNode.JNpQXSLFA5zC9rawprvvjQD/6cvnRgy/5zTwwqZeWJI=
+      Staking Thresholds:
+        - Global: node-compute
+    - Name: registry.RegisterNode.eOhE6Sn79eKfqJFYU93X4/sbSOC9lb7WCJ51ZwZfv64=
+      Staking Thresholds:
+        - Global: node-validator
+    - Name: registry.RegisterEntity
+      Staking Thresholds:
+        - Global: entity
+
+Nonce: 6
